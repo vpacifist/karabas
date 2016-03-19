@@ -1104,11 +1104,11 @@ body {
   background: url(../img/bg-container.png);
   background-size: 900px;
 }
-.container.index {
+.index .container {
   max-width: 800px;
   background-size: 800px;
 }
-.container.header {
+.header .container {
   background: none;
   max-width: 1000px;
 }
@@ -1354,7 +1354,26 @@ text-align: center;
 }
 
 /* Footer */
-.footer-copy{
+.footer-container:before {
+  content: " ";
+  display: table;
+}
+.footer-container {
+  margin: 0 auto;
+  max-width: 960px;
+  background: url(../img/bg-footer.png) 0 0 no-repeat;
+  background-size: 953px;
+  height: 320px;
+}
+.footer-copy {
   text-align: center;
   color: #777;
+}  margin-top: 245px;
+}
+.index .footer-container {
+  background-size: 846px;
+  background-position: 54px 0;
+}
+.index .footer-copy {
+  margin-top: 220px;
 }

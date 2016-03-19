@@ -9,8 +9,8 @@
   </head>
   <body>
 
-    <header>
-      <div class="container header">
+    <header class="header">
+      <div class="container">
         <div class="row pos-rel">
           <div class="col-xs-12  logo-and-menu">
             <a href="index.php" class="logo"><img src="img/logo.png"></a>

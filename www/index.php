@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
-    <main>
-      <div class="container index">
+    <main class="index">
+      <div class="container">
         <div class="row pos-rel">
           <div class="main-cat">
             <div class="main-left-cat">
