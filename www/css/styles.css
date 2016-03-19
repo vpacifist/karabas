@@ -1180,7 +1180,7 @@ a:active {
   display: block;
   min-height: 275px;
   text-align: center;
-  background: url(../img/bg-logo.png) 0 -10px no-repeat;
+  background: url(../img/bg-logo_2.0.png) 0 -10px no-repeat;
   background-size: 1000px;
 }
 .logo {
@@ -1229,16 +1229,18 @@ a:active {
 .header-tel, .header-cats {
   position: relative;
   font-weight: bold;
-  background: url(../img/bg-cats.png) center no-repeat;
+  background: url(../img/bg-cats_2.0.png) center no-repeat;
   padding: 13px 30px;
-  background-size: 200px 50px;
+  background-size: 200px 40px;
   color: #333;
 }
 .header-tel {
-  right: 130px;
+  right: 670px;
+  position:absolute; top:200px;
 }
 .header-cats {
-  left: 150px;
+  left: 670px;
+  position:absolute; top:200px;
 }
 
 
