@@ -33,6 +33,7 @@
               <img src="img/tosha/00-11-4.jpg" data-caption="11 месяцев">
             </div>
           </div>
+
           <div class="col-lg-12">
             <h2 id="cat-pedigree">Родословная</h2>
             <table class="cat-pedigree">
@@ -179,7 +180,8 @@
     <script>
       $( document ).ready(function() {
         $('a.colorbox').colorbox({
-          rel:$(this).attr('src'),
+          // rel:$(this).attr('src'),
+          rel:"colorbox",
           innerWidth:"90%",
           innerHeight:"90%"
         });
