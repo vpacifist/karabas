@@ -20,10 +20,10 @@
 
         <div id="kids-brood-item-first" class="kids-brood-item">
           <div class="row kids-parent">
-            
+
             <div class="col-lg-5">
               <a href="tosha.php">
-                <p class="parent-name">Captain Coon’s Aristotel</p>
+                <p class="parent-name">GICh (WCF)<br/>Captain Coon’s Aristotel</p>
                 <img src="img/tosha.jpg" alt="Captain Coon’s Aristotel" >
               </a>
             </div>
@@ -34,7 +34,7 @@
             </div>
             <div class="col-lg-5">
               <a href="tigra.php">
-                <p class="parent-name">Solar Wind Charming Lady</p>
+                <p class="parent-name">GICh (WCF)<br/>Solar Wind Charming Lady</p>
                 <img src="img/tigra.jpg" alt="Solar Wind Charming Lady" >
               </a>
             </div>
