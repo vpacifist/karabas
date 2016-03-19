@@ -25,6 +25,22 @@
      они ведут не на ту страницу. Надо поправить
      их.
 -->
+
+<?php
+  $menu = array(
+                0 => array(0 => '/', 1=> 'Главная'),
+                1 => array(0 => '/news.php', 1=> 'Новости'),
+                2 => array(0 => '/males.php', 1=> 'Коты'),
+                3 => array(0 => '/females.php', 1=> 'Кошки'),
+                4 => array(0 => '/kids.php', 1=> 'Котята'),
+                5 => array(0 => '/plans.php', 1=> 'Планы'),
+                6 => array(0 => '/graduates.php', 1=> 'Выпускники'),
+                7 => array(0 => '/gallery.php', 1=> 'Галерея'),
+                8 => array(0 => '/contacts.php', 1=> 'Контакты')
+              );
+
+?>
+
 <!DOCTYPE html>
 <html lang="ru">
   <head>
@@ -43,21 +59,12 @@
             <a href="index.php" class="logo"><img src="img/logo.png"></a>
             <nav>
               <ul class="main-menu">
-                <?php
-                  $menu = array(
-                                  0 => array(0 => 'main.php', 1=> 'Главная'),
-                                  1 => array(0 => 'news.php', 1=> 'Новости'),
-                                  2 => array(0 => 'males.php', 1=> 'Коты'),
-                                  3 => array(0 => 'females.php', 1=> 'Кошки'),
-                                  4 => array(0 => 'kids.php', 1=> 'Котята'),
-                                  5 => array(0 => 'plans.php', 1=> 'Планы'),
-                                  6 => array(0 => 'graduates.php', 1=> 'Выпускники'),
-                                  7 => array(0 => 'gallery.php', 1=> 'Галерея'),
-                                  8 => array(0 => 'contacts.php', 1=> 'Контакты')
-                              );
-                  foreach ($menu as $item):
-                ?>
-                <li><a href="<?=$item[0]?>" class="main-menu-item <?=$_SERVER['REQUEST_URI'] == $item[0] ? ' active':''?>"><?=$item[1]?></a></li>
+                <?php foreach ($menu as $item): ?>
+                  <li>
+                    <a href="<?=$item[0]?>" class="main-menu-item <?=$_SERVER['REQUEST_URI'] == $item[0] ? ' active':''?>">
+                      <?=$item[1]?>
+                    </a>
+                  </li>
                 <?endforeach;?>
               </ul>
             </nav>
