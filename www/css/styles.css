@@ -332,8 +332,8 @@ hr {
 */.container-fluid {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .row {
   margin-left: -15px;
@@ -1103,14 +1103,20 @@ body {
 .container {
   background: url(../img/bg-container.png);
   background-size: 900px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 .index .container {
   max-width: 800px;
   background-size: 800px;
+  padding-left: 35px;
+  padding-right: 35px;
 }
 .header .container {
   background: none;
   max-width: 1000px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .text-center {
   text-align: center;
@@ -1156,6 +1162,9 @@ a {
 a:hover {
   color: #9b111e;
 }
+[class*='col-']:first-child {
+  padding-left: 10px;
+}
 
 /* Header */
 .header-lang {
@@ -1181,6 +1190,7 @@ a:hover {
 /* Main-menu */
 .main-menu{
   padding: 0 0;
+  margin-bottom: 10px;
   text-align: center;
   font-size: 0;
 }
