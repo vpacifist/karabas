@@ -1159,7 +1159,8 @@ td {
 a {
   color: #000;
 }
-a:hover {
+a:hover,
+a:active {
   color: #9b111e;
 }
 [class*='col-']:first-child {
