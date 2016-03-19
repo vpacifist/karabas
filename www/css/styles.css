@@ -1163,26 +1163,19 @@ a:hover {
   top: 0;
   right: -50px;
 }
-.header-tel-and-cats {
-  position: absolute;
-  top: 40px;
-  right: -50px;
-  background-color: rgba(255,255,255,0);
-  background: url(../img/bg-tel-and-cats.png) no-repeat;
-  font-size: 22px;
-}
-
 
 .logo-and-menu {
+  position: relative;
+  z-index: 10;
   display: block;
-  min-height: 325px;
+  min-height: 275px;
   text-align: center;
   background: url(../img/bg-logo.png) 0 -10px no-repeat;
   background-size: 1000px;
 }
 .logo {
   display: block;
-  margin-top: 60px;
+  margin-top: 55px;
 }
 
 /* Main-menu */
@@ -1203,20 +1196,38 @@ a:hover {
 .main-menu-item {
   display: inline-block;
   font-size: 18px;
-  color: #383301;
+  color: #424242;
   max-width: 235px;
   text-align: center;
   vertical-align: bottom;
-  padding: 10px 12px;
+  padding: 10px 14px;
   font-weight: bold;
-    font-size: 22px;
+  font-size: 20px;
 }
 .main-menu-item:hover {
   color: #9b111e;
 }
 .main-menu .active {
   color: #9b111e;
+}
 
+
+.header-tel-and-cats {
+  font-size: 20px;
+}
+.header-tel, .header-cats {
+  position: relative;
+  font-weight: bold;
+  background: url(../img/bg-cats.png) center no-repeat;
+  padding: 13px 30px;
+  background-size: 200px 50px;
+  color: #333;
+}
+.header-tel {
+  right: 130px;
+}
+.header-cats {
+  left: 150px;
 }
 
 
@@ -1236,7 +1247,7 @@ a:hover {
 .main-right-cat {
   position: absolute;
   width: 320px;
-  right: -1150px;
+  right: -1110px;
   bottom: -10px;
 }
 .main-reg a {
@@ -1394,7 +1405,7 @@ text-align: center;
 .footer-copy {
   text-align: center;
   color: #777;
-}  margin-top: 245px;
+  margin-top: 245px;
 }
 .index .footer-container {
   background-size: 846px;

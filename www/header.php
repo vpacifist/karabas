@@ -56,7 +56,7 @@
       <div class="container">
         <div class="row pos-rel">
           <div class="col-xs-12  logo-and-menu">
-            <a href="index.php" class="logo"><img src="img/logo.png"></a>
+            <a href="/" class="logo"><img src="img/logo2.png"></a>
             <nav>
               <ul class="main-menu">
                 <?php foreach ($menu as $item): ?>
@@ -68,10 +68,10 @@
                 <?endforeach;?>
               </ul>
             </nav>
-          </div>
-          <div class="header-tel-and-cats">
-            <p>+7 921 373-83-73</p>
-            <p><a href="/kids.php">У нас есть котята!</a></p>
+            <div class="header-tel-and-cats">
+              <a href="/contacts.php" class="header-tel">+7 921 373-83-73</a>
+              <a href="/kids.php" class="header-cats">У нас есть котята!</a>
+            </div>
           </div>
           <div class="header-lang">
             <a href="#"><img src="img/ru.png" alt="Русский" width="20"></a>
