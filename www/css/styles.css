@@ -1273,6 +1273,32 @@ text-align: center;
   font-weight: bold;
   padding-bottom: 10px
 }
+
+.cat-pedigree td {
+  width: 25%;
+  padding: 5px;
+  font-weight: bold;
+}
+.cat-pedigree img{
+  max-height: 100%;
+}
+.cat-pedigree p {
+  margin: 0;
+}
+.pedigree-img {
+  width: 100%;
+  text-align: center;
+}
+.pedigree-img-1 {
+  height: 230px;
+}
+.pedigree-img-2 {
+  height: 100px;
+}
+.pedigree-img-3 {
+  height: 50px;
+}
+
 .show-results {
   text-align: left;
 }

@@ -36,22 +36,68 @@
           <div class="col-lg-12">
             <h2 id="cat-pedigree">Родословная</h2>
             <table class="cat-pedigree">
-              <tr>  <td rowspan="8">Имя кота <img src="img/tosha.jpg"></td>  <td rowspan="4">Имя кота</td>  <td rowspan="2">Имя кота</td>  <td>Имя кота</td>  </tr>
-              <tr>                                                                                               <td>Имя кота</td>  </tr>
-              <tr>                                                                <td rowspan="2">Имя кота</td>  <td>Имя кота</td>  </tr>
-              <tr>                                                                                               <td>Имя кота</td>  </tr>
-              <tr>                                 <td rowspan="4">Имя кота</td>  <td rowspan="2">Имя кота</td>  <td>Имя кота</td>  </tr>
-              <tr>                                                                                               <td>Имя кота</td>  </tr>
-              <tr>                                                                <td rowspan="2">Имя кота</td>  <td>Имя кота</td>  </tr>
-              <tr>                                                                                               <td>Имя кота</td>  </tr>
-              <tr>  <td rowspan="8">Имя кота</td>  <td rowspan="4">Имя кота</td>  <td rowspan="2">Имя кота</td>  <td>Имя кота</td>  </tr>
-              <tr>                                                                                               <td>Имя кота</td>  </tr>
-              <tr>                                                                <td rowspan="2">Имя кота</td>  <td>Имя кота</td>  </tr>
-              <tr>                                                                                               <td>Имя кота</td>  </tr>
-              <tr>                                 <td rowspan="4">Имя кота</td>  <td rowspan="2">Имя кота</td>  <td>Имя кота</td>  </tr>
-              <tr>                                                                                               <td>Имя кота</td>  </tr>
-              <tr>                                                                <td rowspan="2">Имя кота</td>  <td>Имя кота</td>  </tr>
-              <tr>                                                                                               <td>Имя кота</td>  </tr>
+              <tr>
+                <td rowspan="8"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td rowspan="4"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td rowspan="2"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td rowspan="2"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td rowspan="4"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td rowspan="2"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td rowspan="2"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td rowspan="8"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td rowspan="4"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td rowspan="2"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td rowspan="2"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td rowspan="4"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td rowspan="2"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td rowspan="2"><p>Имя кота</p><a href="img/tosha.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/tosha.jpg"></a></td>
+                <td>Имя кота</td>
+              </tr>
+              <tr>
+                <td>Имя кота</td>
+              </tr>
             </table>
           </div>
           <div class="col-lg-12">
