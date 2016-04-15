@@ -161,7 +161,7 @@
               <tr>
                 <td>07.02.2016</td> <td>Великий Новгород, «Кубок Великого Новгорода»</td> <td>Татьяна Есина</td>  <td>EX1</td>
               </tr>
-              <tr><td colspan="4" class="text-center"><span class="color-red">Закрыт титул Grand International Champion – GICh WCF / Большой Международный Чемпион WCF и открыл титул European Champion /Европейский Чемпион WCF</span></td></tr>
+              <tr><td colspan="4" class="text-center"><span class="color-red">Закрыт титул Grand International Champion – GICh WCF / Большой Международный Чемпион WCF и открыт титул European Champion /Европейский Чемпион WCF</span></td></tr>
             </table>
           </div>
         </div>

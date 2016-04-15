@@ -165,7 +165,7 @@
               <tr>
                 <td>07.03.2016</td> <td>Санкт-Петербург, "Весенний марафон"</td>  <td>Anna Nazarova</td>  <td>EX1</td>
               </tr>
-              <tr><td colspan="4" class="text-center"><span class="color-red">Закрыт титул Grand International Champion – GICh WCF / Большой Международный Чемпион WCF и открыл титул European Champion /Европейский ЧемпионWCF</span></td></tr>
+              <tr><td colspan="4" class="text-center"><span class="color-red">Закрыт титул Grand International Champion – GICh WCF / Большой Международный Чемпион WCF и открыт титул European Champion /Европейский ЧемпионWCF</span></td></tr>
             </table>
           </div>
         </div>
