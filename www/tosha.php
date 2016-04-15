@@ -86,7 +86,7 @@
               </tr>
               <tr>
                 <td rowspan="4"><p>DK Aloa's Tutti Frutti</p><p class="cat-pedigree-color">MCO g 22</p><a href="img/pedigree/tosha-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tosha-022.jpg"></a></td>
-                <td rowspan="2"><p>DK Mountaineer's Beach Boy</p><p class="cat-pedigree-color">MCO c 09 22</p><a href="img/pedigree/tosha-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-221.jpg"></a></td>
+                <td rowspan="2"><p>DK Mountaineer's Beach Boy</p><p class="cat-pedigree-color">MCO e 09 22</p><a href="img/pedigree/tosha-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-221.jpg"></a></td>
                 <td><p>DK Mountaineer's Latino Bove</p><p class="cat-pedigree-color">MCO n</p></td>
               </tr>
               <tr>
