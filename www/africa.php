@@ -4,11 +4,11 @@
     <main>
       <div class="container cat-demo">
       <h1>HoneyDevil AFRICA</h1>
-      <a href="#cat-pedigree" class="anchor-link">Родословная</a>
-      <a href="#cat-show-res" class="anchor-link">Шоу результаты</a>
         <div class="row">
           <div class="col-lg-7">
             <p>Окрас:  чёрная черепаха<br/>MCO f<br/>Дата рождения: 30.11.2015<br/>Заводчик: Елисеева Юлия<br/>Владелец: Журавлева Ольга</p>
+            <a href="#cat-pedigree" class="anchor-link">Родословная</a>
+            <a href="#cat-show-res" class="anchor-link">Шоу результаты</a>
 <!--             <p>Из описания экспертов:</p>
             <p><b>Тело</b>: ***<br/><b>Глаза</b>: ***<br/><b>Уши</b>: ***<br/><b>Шерсть</b>: ***<br/><b>Хвост</b>: ***<br/>*** общая информация ***</p>
  -->            <p>Генетический тест на гипертрофическую кардиомиопатию мейн-кунов ( HCM ) - N/N<br/>Генетический тест на аутосомно-доминантный поликистоз почек  ( ADPKD ) - N/N <br/>Генетический тест на дефицит пируваткиназы ( PKdef ) - N/N <br/>Генетический тест на аутосомно-рецессивную спинально-мышечную атрофию ( SMA ) - N/N<br/>Коронавирус (Canine/Feline Coronavirus/FIPV) – не обнаружено<br/>Панлейкопения (Virus panleukopenia Feline/ FPV) – не обнаружено<br/>Хламидиоз (Chlamydophila spp) – не обнаружено<br/>Токсоплазмоз (Toxoplasma gondii) – не обнаружено<br/>Патогенные микоплазмы кошек (M. felis, M. gateae) – не обнаружено<br>Грибы рода Trichophyton – не обнаружено<br>Грибы рода Microsporum – не обнаружено</p>
