@@ -8,7 +8,7 @@
         <a href="#kids-brood-item-third" class="anchor-link">Помёт C</a>
  -->
 
-        <a href="#kids-info" class="kids-colorbox">Информация для покупателей</a>
+        <a href="#kids-info" class="kids-colorbox  buy-info">Информация для покупателей</a>
 
         <div style='display:none'>
           <div id="kids-info" >
@@ -18,7 +18,7 @@
         </div>
 
 
-        <div id="kids-brood-item-first" class="kids-brood-item">
+<!--         <div id="kids-brood-item-first" class="kids-brood-item">
           <div class="row kids-parent">
 
             <div class="col-lg-5">
@@ -96,7 +96,7 @@
             </table>
           </div>
         </div>
-
+ -->
 <!--         <div id="kids-brood-item-second" class="kids-brood-item">
           <div class="row kids-parent">
             <h2>Помёт B</h2>

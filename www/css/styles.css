@@ -1309,6 +1309,10 @@ text-align: center;
 .cat-pedigree p {
   margin: 0;
 }
+.cat-pedigree-color {
+  font-weight: normal;
+  font-size: 15px;
+}
 .pedigree-img {
   width: 100%;
   text-align: center;
@@ -1325,6 +1329,7 @@ text-align: center;
 
 .show-results {
   text-align: left;
+  font-size: 16px;
 }
 .show-results td {
   padding: 0 5px;
@@ -1349,6 +1354,9 @@ text-align: center;
  */
 .kids {
   text-align: center;
+}
+.buy-info {
+  text-decoration: underline;
 }
 .kids .anchor-link {
   margin: 0 10px 0;
