@@ -1297,7 +1297,13 @@ text-align: center;
   font-weight: bold;
   padding-bottom: 10px
 }
-
+.cat-info {
+  padding: 30px;
+  font-size: 18px;
+}
+.cat-expert-description {
+  text-align: justify;
+}
 .cat-pedigree td {
   width: 25%;
   padding: 5px;
