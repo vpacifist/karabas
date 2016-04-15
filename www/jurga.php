@@ -79,7 +79,7 @@
                 <td><p>GICh Golden Soul Camomile</p><p class="cat-pedigree-color">MCO d 23 03</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>Gamma Long Meadow</p><p class="cat-pedigree-color">MCO f 24 09/p><a href="img/pedigree/jurga-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/jurga-022.jpg"></a></td>
+                <td rowspan="4"><p>Gamma Long Meadow</p><p class="cat-pedigree-color">MCO f 24 09</p><a href="img/pedigree/jurga-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/jurga-022.jpg"></a></td>
                 <td rowspan="2"><p>Ch Coolmotion`s Amarango</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/jurga-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-221.jpg"></a></td>
                 <td><p>Pillowtalk`s Xtro Energie</p><p class="cat-pedigree-color">MCO n 22</p></td>
               </tr>
