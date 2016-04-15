@@ -16,21 +16,21 @@
           </div>
           <div class="col-lg-5 cat-demo-images">
             <div class="fotorama"  data-nav="thumbs"  data-allowfullscreen="true">
-              <img src="img/tosha/00-00.jpg" data-caption="2 недели">
-              <img src="img/tosha/00-025.jpg" data-caption="2,5 месяца">
-              <img src="img/tosha/00-04.jpg" data-caption="4 месяца">
-              <img src="img/tosha/00-04-2.jpg" data-caption="4 месяца">
-              <img src="img/tosha/00-06.jpg" data-caption="6 месяцев">
-              <img src="img/tosha/00-09.jpg" data-caption="9 месяцев">
-              <img src="img/tosha/00-095.jpg" data-caption="9,5 месяцев">
-              <img src="img/tosha/00-095-2.jpg" data-caption="9,5 месяцев">
-              <img src="img/tosha/00-095-3.jpg" data-caption="9,5 месяцев">
-              <img src="img/tosha/00-095-4.jpg" data-caption="9,5 месяцев">
-              <img src="img/tosha/00-095-5.jpg" data-caption="9,5 месяцев">
-              <img src="img/tosha/00-11.jpg" data-caption="11 месяцев">
-              <img src="img/tosha/00-11-2.jpg" data-caption="11 месяцев">
-              <img src="img/tosha/00-11-3.jpg" data-caption="11 месяцев">
               <img src="img/tosha/00-11-4.jpg" data-caption="11 месяцев">
+              <img src="img/tosha/00-11-3.jpg" data-caption="11 месяцев">
+              <img src="img/tosha/00-11-2.jpg" data-caption="11 месяцев">
+              <img src="img/tosha/00-11.jpg" data-caption="11 месяцев">
+              <img src="img/tosha/00-095-5.jpg" data-caption="9,5 месяцев">
+              <img src="img/tosha/00-095-4.jpg" data-caption="9,5 месяцев">
+              <img src="img/tosha/00-095-3.jpg" data-caption="9,5 месяцев">
+              <img src="img/tosha/00-095-2.jpg" data-caption="9,5 месяцев">
+              <img src="img/tosha/00-095.jpg" data-caption="9,5 месяцев">
+              <img src="img/tosha/00-09.jpg" data-caption="9 месяцев">
+              <img src="img/tosha/00-06.jpg" data-caption="6 месяцев">
+              <img src="img/tosha/00-04-2.jpg" data-caption="4 месяца">
+              <img src="img/tosha/00-04.jpg" data-caption="4 месяца">
+              <img src="img/tosha/00-025.jpg" data-caption="2,5 месяца">
+              <img src="img/tosha/00-00.jpg" data-caption="2 недели">
             </div>
           </div>
 

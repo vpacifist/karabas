@@ -16,15 +16,15 @@
           <!-- Personal Photos -->
           <div class="col-lg-5 cat-demo-images">
             <div class="fotorama"  data-nav="thumbs"  data-allowfullscreen="true">
-              <img src="img/jurga/00-0009.jpg" data-caption="9 дней">
-              <img src="img/jurga/00-01.jpg" data-caption="1 месяц">
-              <img src="img/jurga/00-021.jpg" data-caption="2 месяца">
-              <img src="img/jurga/00-03.jpg" data-caption="3 месяца">
-              <img src="img/jurga/00-03-2.jpg" data-caption="3 месяца">
-              <img src="img/jurga/00-03-3.jpg" data-caption="3 месяца">
-              <img src="img/jurga/00-035.jpg" data-caption="3,5 месяца">
-              <img src="img/jurga/00-035-2.jpg" data-caption="3,5 месяца">
               <img src="img/jurga/00-035-3.jpg" data-caption="3,5 месяца">
+              <img src="img/jurga/00-035-2.jpg" data-caption="3,5 месяца">
+              <img src="img/jurga/00-035.jpg" data-caption="3,5 месяца">
+              <img src="img/jurga/00-03-3.jpg" data-caption="3 месяца">
+              <img src="img/jurga/00-03-2.jpg" data-caption="3 месяца">
+              <img src="img/jurga/00-03.jpg" data-caption="3 месяца">
+              <img src="img/jurga/00-021.jpg" data-caption="2 месяца">
+              <img src="img/jurga/00-01.jpg" data-caption="1 месяц">
+              <img src="img/jurga/00-0009.jpg" data-caption="9 дней">
             </div>
           </div>
           <!-- Pedigree -->

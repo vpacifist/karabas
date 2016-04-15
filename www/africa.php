@@ -16,15 +16,15 @@
           <!-- Personal Photos -->
           <div class="col-lg-5 cat-demo-images">
             <div class="fotorama"  data-nav="thumbs"  data-allowfullscreen="true">
-              <img src="img/africa/00-0075.jpg" data-caption="3 недели">
-              <img src="img/africa/00-0075-2.jpg" data-caption="3 недели">
-              <img src="img/africa/00-015.jpg" data-caption="1,5 месяца">
-              <img src="img/africa/00-025.jpg" data-caption="2,5 месяца">
-              <img src="img/africa/00-03.jpg" data-caption="3 месяца">
-              <img src="img/africa/00-035.jpg" data-caption="3,5 месяца">
-              <img src="img/africa/00-035-2.jpg" data-caption="3,5 месяца">
-              <img src="img/africa/00-04.jpg" data-caption="4 месяца">
               <img src="img/africa/00-04-2.jpg" data-caption="4 месяца">
+              <img src="img/africa/00-04.jpg" data-caption="4 месяца">
+              <img src="img/africa/00-035-2.jpg" data-caption="3,5 месяца">
+              <img src="img/africa/00-035.jpg" data-caption="3,5 месяца">
+              <img src="img/africa/00-03.jpg" data-caption="3 месяца">
+              <img src="img/africa/00-025.jpg" data-caption="2,5 месяца">
+              <img src="img/africa/00-015.jpg" data-caption="1,5 месяца">
+              <img src="img/africa/00-0075-2.jpg" data-caption="3 недели">
+              <img src="img/africa/00-0075.jpg" data-caption="3 недели">
             </div>
           </div>
           <!-- Pedigree -->

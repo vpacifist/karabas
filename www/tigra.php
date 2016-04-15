@@ -16,16 +16,16 @@
           </div>
           <div class="col-lg-5 cat-demo-images">
             <div class="fotorama"  data-nav="thumbs"  data-allowfullscreen="true">
-              <img src="img/tigra/00-035.jpg" data-caption="3,5 месяца">
-              <img src="img/tigra/00-065.jpg" data-caption="6,5 месяцев">
-              <img src="img/tigra/00-065-2.jpg" data-caption="6,5 месяцев">
-              <img src="img/tigra/00-065-3.jpg" data-caption="6,5 месяцев">
-              <img src="img/tigra/00-065-4.jpg" data-caption="6,5 месяцев">
-              <img src="img/tigra/00-065-5.jpg" data-caption="6,5 месяцев">
-              <img src="img/tigra/00-065-6.jpg" data-caption="6,5 месяцев">
-              <img src="img/tigra/00-095.jpg" data-caption="9,5 месяцев">
-              <img src="img/tigra/01-00.jpg" data-caption="1 год">
               <img src="img/tigra/01-01.jpg" data-caption="1 год, 1 месяц">
+              <img src="img/tigra/01-00.jpg" data-caption="1 год">
+              <img src="img/tigra/00-095.jpg" data-caption="9,5 месяцев">
+              <img src="img/tigra/00-065-6.jpg" data-caption="6,5 месяцев">
+              <img src="img/tigra/00-065-5.jpg" data-caption="6,5 месяцев">
+              <img src="img/tigra/00-065-4.jpg" data-caption="6,5 месяцев">
+              <img src="img/tigra/00-065-3.jpg" data-caption="6,5 месяцев">
+              <img src="img/tigra/00-065-2.jpg" data-caption="6,5 месяцев">
+              <img src="img/tigra/00-065.jpg" data-caption="6,5 месяцев">
+              <img src="img/tigra/00-035.jpg" data-caption="3,5 месяца">
             </div>
           </div>
 
