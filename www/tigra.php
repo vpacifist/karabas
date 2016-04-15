@@ -42,14 +42,14 @@
                 <td><p>Pillowtalk's Caprice</p><p class="cat-pedigree-color">MCO fs</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Sharm's World la Valetta</p><p class="cat-pedigree-color">MCO f</p></td>
+                <td rowspan="2"><p>Sharm's World la Valetta</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/tigra-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-112.jpg"></a></td>
                 <td><p>I.Ch.Sammerplace Nordie Ice</p><p class="cat-pedigree-color">MCO e 23</p></td>
               </tr>
               <tr>
                 <td><p>Ch. Pillowtalk's Noelle</p><p class="cat-pedigree-color">MCO f 22 03</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>Well Being Demi Mur</p><p class="cat-pedigree-color">MCO as 22</p></td>
+                <td rowspan="4"><p>Well Being Demi Mur</p><p class="cat-pedigree-color">MCO as 22</p><a href="img/pedigree/tigra-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tigra-012.jpg"></a></td>
                 <td rowspan="2"><p>E.Ch.Buffalo Krasnyi Dar*RU</p><p class="cat-pedigree-color">MCO a 22</p><a href="img/pedigree/tigra-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-121.jpg"></a></td>
                 <td><p>Ch.Coolmotion's Amarango</p><p class="cat-pedigree-color">MCO n</p></td>
               </tr>
@@ -57,7 +57,7 @@
                 <td><p>Bacardi Sudjuk Kale*RU</p><p class="cat-pedigree-color">MCO n 24</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>G.I.Ch. UfaCoon's Naomi</p><p class="cat-pedigree-color">MCO as 22</p></td>
+                <td rowspan="2"><p>G.I.Ch. UfaCoon's Naomi</p><p class="cat-pedigree-color">MCO as 22</p><a href="img/pedigree/tigra-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-122.jpg"></a></td>
                 <td><p>Cool Matlon's Rlley</p><p class="cat-pedigree-color">MCO ns 22</p></td>
               </tr>
               <tr>
