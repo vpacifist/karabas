@@ -1180,7 +1180,7 @@ a:active {
   display: block;
   min-height: 275px;
   text-align: center;
-  background: url(../img/bg-header-wrap.png) 0 -10px no-repeat;
+  background: url(../img/bg-logo_2.0.png) 0 -10px no-repeat;
   background-size: 1000px;
 }
 .logo {
@@ -1304,6 +1304,7 @@ text-align: center;
 .cat-expert-description {
   text-align: justify;
 }
+
 .cat-pedigree td {
   width: 25%;
   padding: 5px;
