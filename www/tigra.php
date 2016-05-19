@@ -33,8 +33,8 @@
             <h2 id="cat-pedigree">Родословная</h2>
             <table class="cat-pedigree">
               <tr>
-                <td rowspan="8"><p>Ch. Five Star's Alehandro</p><p class="cat-pedigree-color">MCO as 22</p><a href="img/pedigree/tigra-001.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/pedigree/tigra-001.jpg"></a></td>
-                <td rowspan="4"><p>G.I.Ch. Sharm's World Tornado Blue</p><p class="cat-pedigree-color">MCO a</p><a href="img/pedigree/tigra-011.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tigra-011.jpg"></a></td>
+                <td rowspan="8"><p>Ch. Five Star's Alehandro</p><p class="cat-pedigree-color">MCO as 22</p><a href="img/pedigree/tigra-001.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="Ch. Five Star's Alehandro"><img src="img/pedigree/tigra-001.jpg"></a></td>
+                <td rowspan="4"><p>G.I.Ch. Sharm's World Tornado Blue</p><p class="cat-pedigree-color">MCO a</p><a href="img/pedigree/tigra-011.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="G.I.Ch. Sharm's World Tornado Blue"><img src="img/pedigree/tigra-011.jpg"></a></td>
                 <td rowspan="2"><p>Sharm's World Madagascar</p><p class="cat-pedigree-color">MCO ds 03</p></td>
                 <td><p>Pillowtalk's Nifty Wolf</p><p class="cat-pedigree-color">MCO n 03</p></td>
               </tr>
@@ -42,53 +42,53 @@
                 <td><p>Pillowtalk's Caprice</p><p class="cat-pedigree-color">MCO fs</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Sharm's World la Valetta</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/tigra-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-112.jpg"></a></td>
+                <td rowspan="2"><p>Sharm's World la Valetta</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/tigra-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Sharm's World la Valetta"><img src="img/pedigree/tigra-112.jpg"></a></td>
                 <td><p>I.Ch.Sammerplace Nordie Ice</p><p class="cat-pedigree-color">MCO e 23</p></td>
               </tr>
               <tr>
                 <td><p>Ch. Pillowtalk's Noelle</p><p class="cat-pedigree-color">MCO f 22 03</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>Well Being Demi Mur</p><p class="cat-pedigree-color">MCO as 22</p><a href="img/pedigree/tigra-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tigra-012.jpg"></a></td>
-                <td rowspan="2"><p>E.Ch.Buffalo Krasnyi Dar*RU</p><p class="cat-pedigree-color">MCO a 22</p><a href="img/pedigree/tigra-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-121.jpg"></a></td>
+                <td rowspan="4"><p>Well Being Demi Mur</p><p class="cat-pedigree-color">MCO as 22</p><a href="img/pedigree/tigra-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Well Being Demi Mur"><img src="img/pedigree/tigra-012.jpg"></a></td>
+                <td rowspan="2"><p>E.Ch.Buffalo Krasnyi Dar*RU</p><p class="cat-pedigree-color">MCO a 22</p><a href="img/pedigree/tigra-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="E.Ch.Buffalo Krasnyi Dar*RU"><img src="img/pedigree/tigra-121.jpg"></a></td>
                 <td><p>Ch.Coolmotion's Amarango</p><p class="cat-pedigree-color">MCO n</p></td>
               </tr>
               <tr>
                 <td><p>Bacardi Sudjuk Kale*RU</p><p class="cat-pedigree-color">MCO n 24</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>G.I.Ch. UfaCoon's Naomi</p><p class="cat-pedigree-color">MCO as 22</p><a href="img/pedigree/tigra-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-122.jpg"></a></td>
+                <td rowspan="2"><p>G.I.Ch. UfaCoon's Naomi</p><p class="cat-pedigree-color">MCO as 22</p><a href="img/pedigree/tigra-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="G.I.Ch. UfaCoon's Naomi"><img src="img/pedigree/tigra-122.jpg"></a></td>
                 <td><p>Cool Matlon's Rlley</p><p class="cat-pedigree-color">MCO ns 22</p></td>
               </tr>
               <tr>
                 <td><p>Bajuncat's Luna</p><p class="cat-pedigree-color">MCO g 22</p></td>
               </tr>
               <tr>
-                <td rowspan="8"><p>Ch. Solar Wind Victory</p><p class="cat-pedigree-color">MCO n 22</p><a href="img/pedigree/tigra-002.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/pedigree/tigra-002.jpg"></a></td>
-                <td rowspan="4"><p>G.I.Ch. Ursus Black Goldjasmine Afonya Coon*RU</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/tigra-021.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tigra-021.jpg"></a></td>
-                <td rowspan="2"><p>Goldjasmine Ferrari</p><p class="cat-pedigree-color">MCO d 22</p><a href="img/pedigree/tigra-211.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-211.jpg"></a></td>
+                <td rowspan="8"><p>Ch. Solar Wind Victory</p><p class="cat-pedigree-color">MCO n 22</p><a href="img/pedigree/tigra-002.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="Ch. Solar Wind Victory"><img src="img/pedigree/tigra-002.jpg"></a></td>
+                <td rowspan="4"><p>G.I.Ch. Ursus Black Goldjasmine Afonya Coon*RU</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/tigra-021.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="G.I.Ch. Ursus Black Goldjasmine Afonya Coon*RU"><img src="img/pedigree/tigra-021.jpg"></a></td>
+                <td rowspan="2"><p>Goldjasmine Ferrari</p><p class="cat-pedigree-color">MCO d 22</p><a href="img/pedigree/tigra-211.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Goldjasmine Ferrari"><img src="img/pedigree/tigra-211.jpg"></a></td>
                 <td><p>Ch. Top Coon Maverick</p><p class="cat-pedigree-color">MCO n 22</p></td>
               </tr>
               <tr>
                 <td><p>DGC Top Coon Rhapsodie</p><p class="cat-pedigree-color">MCO f</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Ch.(FIFe) Infiniti Perfeet Cat*UA</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/tigra-212.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-212.jpg"></a></td>
+                <td rowspan="2"><p>Ch.(FIFe) Infiniti Perfeet Cat*UA</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/tigra-212.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Ch.(FIFe) Infiniti Perfeet Cat*UA"><img src="img/pedigree/tigra-212.jpg"></a></td>
                 <td><p>I.Ch. Hogo Fogo z Matrixu*CZ</p><p class="cat-pedigree-color">MCO n 09</p></td>
               </tr>
               <tr>
                 <td><p>I.Ch. Cuba Perfect Cat*UA</p><p class="cat-pedigree-color">MCO f 22</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>Ch. Riddlecoon G Starquality Miata</p><p class="cat-pedigree-color">MCO fs 22</p><a href="img/pedigree/tigra-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tigra-022.jpg"></a></td>
-                <td rowspan="2"><p>Toreador Vom Pommerland Delicat</p><p class="cat-pedigree-color">MCO es</p><a href="img/pedigree/tigra-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-221.jpg"></a></td>
+                <td rowspan="4"><p>Ch. Riddlecoon G Starquality Miata</p><p class="cat-pedigree-color">MCO fs 22</p><a href="img/pedigree/tigra-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Ch. Riddlecoon G Starquality Miata"><img src="img/pedigree/tigra-022.jpg"></a></td>
+                <td rowspan="2"><p>Toreador Vom Pommerland Delicat</p><p class="cat-pedigree-color">MCO es</p><a href="img/pedigree/tigra-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Toreador Vom Pommerland Delicat"><img src="img/pedigree/tigra-221.jpg"></a></td>
                 <td><p>Classic Cat's Fidelis</p><p class="cat-pedigree-color">MCO d</p></td>
               </tr>
               <tr>
                 <td><p>Ziska vom Pommerland</p><p class="cat-pedigree-color">MCO fs</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>QGC (TICA), Ch. Riddlecoon's L.E.Esti</p><p class="cat-pedigree-color">MCO n 22 03</p><a href="img/pedigree/tigra-222.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tigra-222.jpg"></a></td>
+                <td rowspan="2"><p>QGC (TICA), Ch. Riddlecoon's L.E.Esti</p><p class="cat-pedigree-color">MCO n 22 03</p><a href="img/pedigree/tigra-222.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="QGC (TICA), Ch. Riddlecoon's L.E.Esti"><img src="img/pedigree/tigra-222.jpg"></a></td>
                 <td><p>QGC (TICA) Timaracoon's Montana</p><p class="cat-pedigree-color">MCO a 2209</p></td>
               </tr>
               <tr>

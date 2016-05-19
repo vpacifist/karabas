@@ -38,62 +38,62 @@
             <h2 id="cat-pedigree">Родословная</h2>
             <table class="cat-pedigree">
               <tr>
-                <td rowspan="8"><p>Ch. Pocoloco Villa Park*PL</p><p class="cat-pedigree-color">MCO n 09 22</p><a href="img/pedigree/tosha-001.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/pedigree/tosha-001.jpg"></a></td>
-                <td rowspan="4"><p>IC Immanuele Villa Park*PL</p><p class="cat-pedigree-color">MCO ns 03</p><a href="img/pedigree/tosha-011.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tosha-011.jpg"></a></td>
-                <td rowspan="2"><p>CH PL*Gatta Fumetto Argentino</p><p class="cat-pedigree-color">MCO ns 09</p><a href="img/pedigree/tosha-111.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-111.jpg"></a></td>
+                <td rowspan="8"><p>Ch. Pocoloco Villa Park*PL</p><p class="cat-pedigree-color">MCO n 09 22</p><a href="img/pedigree/tosha-001.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="Ch. Pocoloco Villa Park*PL"><img src="img/pedigree/tosha-001.jpg"></a></td>
+                <td rowspan="4"><p>IC Immanuele Villa Park*PL</p><p class="cat-pedigree-color">MCO ns 03</p><a href="img/pedigree/tosha-011.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="IC Immanuele Villa Park*PL"><img src="img/pedigree/tosha-011.jpg"></a></td>
+                <td rowspan="2"><p>CH PL*Gatta Fumetto Argentino</p><p class="cat-pedigree-color">MCO ns 09</p><a href="img/pedigree/tosha-111.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="CH PL*Gatta Fumetto Argentino"><img src="img/pedigree/tosha-111.jpg"></a></td>
                 <td><p>EC Norsycat Cappuccino</p><p class="cat-pedigree-color">MCO n 22</p></td>
               </tr>
               <tr>
                 <td><p>EC Idril Lavender Love*PL</p><p class="cat-pedigree-color">MCO ns 09</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Dreamy of Saxonyforest</p><p class="cat-pedigree-color">MCO n 09 23</p><a href="img/pedigree/tosha-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-112.jpg"></a></td>
+                <td rowspan="2"><p>Dreamy of Saxonyforest</p><p class="cat-pedigree-color">MCO n 09 23</p><a href="img/pedigree/tosha-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Dreamy of Saxonyforest"><img src="img/pedigree/tosha-112.jpg"></a></td>
                 <td><p>CH Valentino of Baydar</p><p class="cat-pedigree-color">MCO n 09 22</p></td>
               </tr>
               <tr>
                 <td><p>Super-Star's Savannah</p><p class="cat-pedigree-color">MCO f 09 23</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>Bella Villa Park*PL</p><p class="cat-pedigree-color">MCO n 22</p><a href="img/pedigree/tosha-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tosha-012.jpg"></a></td>
-                <td rowspan="2"><p>IC Escudo Velvet Rose*PL, JW</p><p class="cat-pedigree-color">MCO n 22</p><a href="img/pedigree/tosha-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-121.jpg"></a></td>
+                <td rowspan="4"><p>Bella Villa Park*PL</p><p class="cat-pedigree-color">MCO n 22</p><a href="img/pedigree/tosha-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Bella Villa Park*PL"><img src="img/pedigree/tosha-012.jpg"></a></td>
+                <td rowspan="2"><p>IC Escudo Velvet Rose*PL, JW</p><p class="cat-pedigree-color">MCO n 22</p><a href="img/pedigree/tosha-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="IC Escudo Velvet Rose*PL, JW"><img src="img/pedigree/tosha-121.jpg"></a></td>
                 <td><p>Bulk Buster Velvet Rose*PL</p><p class="cat-pedigree-color">MCO n 09 22</p></td>
               </tr>
               <tr>
                 <td><p>PL*Lavender Love Babette</p><p class="cat-pedigree-color">MCO f 22</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Ch. Goldie Rose Villa Park*PL</p><p class="cat-pedigree-color">MCO f 22</p><a href="img/pedigree/tosha-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-122.jpg"></a></td>
+                <td rowspan="2"><p>Ch. Goldie Rose Villa Park*PL</p><p class="cat-pedigree-color">MCO f 22</p><a href="img/pedigree/tosha-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Ch. Goldie Rose Villa Park*PL"><img src="img/pedigree/tosha-122.jpg"></a></td>
                 <td><p>GIC A*Csak's Coon Armando</p><p class="cat-pedigree-color">MCO d 09 22</p></td>
               </tr>
               <tr>
                 <td><p>Dreamy of Saxonyforest</p><p class="cat-pedigree-color">MCO n 09 23</p></td>
               </tr>
               <tr>
-                <td rowspan="8"><p>DK Aloa's La Luna</p><p class="cat-pedigree-color">MCO e 22</p><a href="img/pedigree/tosha-002.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/pedigree/tosha-002.jpg"></a></td>
-                <td rowspan="4"><p>(N)Tojo Polaris Jim Morisson</p><p class="cat-pedigree-color">MCO d 09</p><a href="img/pedigree/tosha-021.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tosha-021.jpg"></a></td>
-                <td rowspan="2"><p>DotCom Ivor Novello</p><p class="cat-pedigree-color">MCO n 09</p><a href="img/pedigree/tosha-211.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-211.jpg"></a></td>
+                <td rowspan="8"><p>DK Aloa's La Luna</p><p class="cat-pedigree-color">MCO e 22</p><a href="img/pedigree/tosha-002.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="DK Aloa's La Luna"><img src="img/pedigree/tosha-002.jpg"></a></td>
+                <td rowspan="4"><p>(N)Tojo Polaris Jim Morisson</p><p class="cat-pedigree-color">MCO d 09</p><a href="img/pedigree/tosha-021.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="(N)Tojo Polaris Jim Morisson"><img src="img/pedigree/tosha-021.jpg"></a></td>
+                <td rowspan="2"><p>DotCom Ivor Novello</p><p class="cat-pedigree-color">MCO n 09</p><a href="img/pedigree/tosha-211.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="DotCom Ivor Novello"><img src="img/pedigree/tosha-211.jpg"></a></td>
                 <td><p>CH Mullycoon Naan Gkar</p><p class="cat-pedigree-color">MCO a</p></td>
               </tr>
               <tr>
                 <td><p>DotCom Divine Inspiration</p><p class="cat-pedigree-color">MCO fs 09</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>CH(N) Tojo Polaris Victoria Beckham</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/tosha-212.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-212.jpg"></a></td>
+                <td rowspan="2"><p>CH(N) Tojo Polaris Victoria Beckham</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/tosha-212.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="CH(N) Tojo Polaris Victoria Beckham"><img src="img/pedigree/tosha-212.jpg"></a></td>
                 <td><p>Langstteich's P'Samba</p><p class="cat-pedigree-color">MCO ns 22</p></td>
               </tr>
               <tr>
                 <td><p>IC(N)Tojo Polaris Irma Thomas</p><p class="cat-pedigree-color">MCO f 22</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>DK Aloa's Tutti Frutti</p><p class="cat-pedigree-color">MCO g 22</p><a href="img/pedigree/tosha-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/tosha-022.jpg"></a></td>
-                <td rowspan="2"><p>DK Mountaineer's Beach Boy</p><p class="cat-pedigree-color">MCO e 09 22</p><a href="img/pedigree/tosha-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-221.jpg"></a></td>
+                <td rowspan="4"><p>DK Aloa's Tutti Frutti</p><p class="cat-pedigree-color">MCO g 22</p><a href="img/pedigree/tosha-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="DK Aloa's Tutti Frutti"><img src="img/pedigree/tosha-022.jpg"></a></td>
+                <td rowspan="2"><p>DK Mountaineer's Beach Boy</p><p class="cat-pedigree-color">MCO e 09 22</p><a href="img/pedigree/tosha-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="DK Mountaineer's Beach Boy"><img src="img/pedigree/tosha-221.jpg"></a></td>
                 <td><p>DK Mountaineer's Latino Bove</p><p class="cat-pedigree-color">MCO n</p></td>
               </tr>
               <tr>
                 <td><p>DK Mountaineer's Christmas Snow</p><p class="cat-pedigree-color">MCO d 09 22</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>DK Mountaineer's Wannaway Jezebel</p><p class="cat-pedigree-color">MCO g 22</p><a href="img/pedigree/tosha-222.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/tosha-222.jpg"></a></td>
+                <td rowspan="2"><p>DK Mountaineer's Wannaway Jezebel</p><p class="cat-pedigree-color">MCO g 22</p><a href="img/pedigree/tosha-222.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="DK Mountaineer's Wannaway Jezebel"><img src="img/pedigree/tosha-222.jpg"></a></td>
                 <td><p>CH DK Coonshine's Skagway</p><p class="cat-pedigree-color">MCO n 23</p></td>
               </tr>
               <tr>

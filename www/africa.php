@@ -32,62 +32,62 @@
             <h2 id="cat-pedigree">Родословная</h2>
             <table class="cat-pedigree">
               <tr>
-                <td rowspan="8"><p>DGCH (TICA) PL*Aldaker TAIPAN</p><p class="cat-pedigree-color">MCO d 23 03</p><a href="img/pedigree/africa-001.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/pedigree/africa-001.jpg"></a></td>
-                <td rowspan="4"><p>Supernova HITMAN</p><p class="cat-pedigree-color">MCO d 23 09</p><a href="img/pedigree/africa-011.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/africa-011.jpg"></a></td>
-                <td rowspan="2"><p>Justcoons Cross Fire</p><p class="cat-pedigree-color">MCO d 09 23</p><a href="img/pedigree/africa-111.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/africa-111.jpg"></a></td>
+                <td rowspan="8"><p>DGCH (TICA) PL*Aldaker TAIPAN</p><p class="cat-pedigree-color">MCO d 23 03</p><a href="img/pedigree/africa-001.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="DGCH (TICA) PL*Aldaker TAIPAN"><img src="img/pedigree/africa-001.jpg"></a></td>
+                <td rowspan="4"><p>Supernova HITMAN</p><p class="cat-pedigree-color">MCO d 23 09</p><a href="img/pedigree/africa-011.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Supernova HITMAN"><img src="img/pedigree/africa-011.jpg"></a></td>
+                <td rowspan="2"><p>Justcoons Cross Fire</p><p class="cat-pedigree-color">MCO d 09 23</p><a href="img/pedigree/africa-111.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Justcoons Cross Fire"><img src="img/pedigree/africa-111.jpg"></a></td>
                 <td><p>Langstteich C.C. Juma</p><p class="cat-pedigree-color">MCO a 09 23</p></td>
               </tr>
               <tr>
                 <td><p>Langstteich DD'Elaine of Justcoons</p><p class="cat-pedigree-color">MCO f 22</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>IT* Supernova Miss Costa Rica</p><p class="cat-pedigree-color">MCO n 09 23</p><a href="img/pedigree/africa-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/africa-112.jpg"></a></td>
+                <td rowspan="2"><p>IT* Supernova Miss Costa Rica</p><p class="cat-pedigree-color">MCO n 09 23</p><a href="img/pedigree/africa-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="IT* Supernova Miss Costa Rica"><img src="img/pedigree/africa-112.jpg"></a></td>
                 <td><p>DK*Olmocabe Selius</p><p class="cat-pedigree-color">MCO n 09 22</p></td>
               </tr>
               <tr>
                 <td><p>DK*Sebasco's Nova Scotia</p><p class="cat-pedigree-color">MCO f 23</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>PL*Aldaker Ibiza</p><p class="cat-pedigree-color">MCO f 09</p><a href="img/pedigree/africa-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/africa-012.jpg"></a></td>
-                <td rowspan="2"><p>Csák's Coon E Goran</p><p class="cat-pedigree-color">MCO d 09 22</p><a href="img/pedigree/africa-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/africa-121.jpg"></a></td>
+                <td rowspan="4"><p>PL*Aldaker Ibiza</p><p class="cat-pedigree-color">MCO f 09</p><a href="img/pedigree/africa-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="PL*Aldaker Ibiza"><img src="img/pedigree/africa-012.jpg"></a></td>
+                <td rowspan="2"><p>Csák's Coon E Goran</p><p class="cat-pedigree-color">MCO d 09 22</p><a href="img/pedigree/africa-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Csák's Coon E Goran"><img src="img/pedigree/africa-121.jpg"></a></td>
                 <td><p>GIC McKittycreek Reddy of Csák's Coon</p><p class="cat-pedigree-color">MCO d 09 22</p></td>
               </tr>
               <tr>
                 <td><p>Willowplace Merry of Csák's Coon</p><p class="cat-pedigree-color">MCO f 22</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>FIN*Escape Flogging Molly</p><p class="cat-pedigree-color">MCO f 09 22</p><a href="img/pedigree/africa-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/africa-122.jpg"></a></td>
+                <td rowspan="2"><p>FIN*Escape Flogging Molly</p><p class="cat-pedigree-color">MCO f 09 22</p><a href="img/pedigree/africa-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="FIN*Escape Flogging Molly"><img src="img/pedigree/africa-122.jpg"></a></td>
                 <td><p>IC FIN*Escape's Urban Cowboy</p><p class="cat-pedigree-color">MCO n 09 22</p></td>
               </tr>
               <tr>
                 <td><p>DK*Wytopitlock Leria Kersil</p><p class="cat-pedigree-color">MCO g 22</p></td>
               </tr>
               <tr>
-                <td rowspan="8"><p>HoneyDevil Olive</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/africa-002.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/pedigree/africa-002.jpg"></a></td>
-                <td rowspan="4"><p>Int.Ch. DK Aloa's Esteban</p><p class="cat-pedigree-color">MCO a 03</p><a href="img/pedigree/africa-021.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/africa-021.jpg"></a></td>
-                <td rowspan="2"><p>(N)Tojo Polaris Jim Morrison</p><p class="cat-pedigree-color">MCO d 09</p><a href="img/pedigree/africa-211.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/africa-211.jpg"></a></td>
+                <td rowspan="8"><p>HoneyDevil Olive</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/africa-002.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="HoneyDevil Olive"><img src="img/pedigree/africa-002.jpg"></a></td>
+                <td rowspan="4"><p>Int.Ch. DK Aloa's Esteban</p><p class="cat-pedigree-color">MCO a 03</p><a href="img/pedigree/africa-021.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Int.Ch. DK Aloa's Esteban"><img src="img/pedigree/africa-021.jpg"></a></td>
+                <td rowspan="2"><p>(N)Tojo Polaris Jim Morrison</p><p class="cat-pedigree-color">MCO d 09</p><a href="img/pedigree/africa-211.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="(N)Tojo Polaris Jim Morrison"><img src="img/pedigree/africa-211.jpg"></a></td>
                 <td><p>Dotcom Ivor Novello</p><p class="cat-pedigree-color">MCO n 09</p></td>
               </tr>
               <tr>
                 <td><p>CH Tojo Polaris Victoria Beckham</p><p class="cat-pedigree-color">MCO f</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>DK Aloa's Vindicator</p><p class="cat-pedigree-color">MCO f 09</p><a href="img/pedigree/africa-212.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/africa-212.jpg"></a></td>
+                <td rowspan="2"><p>DK Aloa's Vindicator</p><p class="cat-pedigree-color">MCO f 09</p><a href="img/pedigree/africa-212.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="DK Aloa's Vindicator"><img src="img/pedigree/africa-212.jpg"></a></td>
                 <td><p>DK Mountaineer's Beach Boy</p><p class="cat-pedigree-color">MCO e 09 22</p></td>
               </tr>
               <tr>
                 <td><p>CH DK Remind's Taramoon Cheyenne</p><p class="cat-pedigree-color">MCO ns 22</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>A Winerau's Dream</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/africa-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/africa-022.jpg"></a></td>
-                <td rowspan="2"><p>A Winerau's Yankee</p><p class="cat-pedigree-color">MCO n 22</p><a href="img/pedigree/africa-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/africa-221.jpg"></a></td>
+                <td rowspan="4"><p>A Winerau's Dream</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/africa-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="A Winerau's Dream"><img src="img/pedigree/africa-022.jpg"></a></td>
+                <td rowspan="2"><p>A Winerau's Yankee</p><p class="cat-pedigree-color">MCO n 22</p><a href="img/pedigree/africa-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="A Winerau's Yankee"><img src="img/pedigree/africa-221.jpg"></a></td>
                 <td><p>IC Quiggley of Magic Lake</p><p class="cat-pedigree-color">MCO d 22</p></td>
               </tr>
               <tr>
                 <td><p>CH(N) Mydele's Edda</p><p class="cat-pedigree-color">MCO n 22</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>CH Justcoons Crazy Diamond (CFG)</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/africa-222.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/africa-222.jpg"></a></td>
+                <td rowspan="2"><p>CH Justcoons Crazy Diamond (CFG)</p><p class="cat-pedigree-color">MCO f</p><a href="img/pedigree/africa-222.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="CH Justcoons Crazy Diamond (CFG)"><img src="img/pedigree/africa-222.jpg"></a></td>
                 <td><p>DK Aloa's Nifty Wolf</p><p class="cat-pedigree-color">MCO as</p></td>
               </tr>
               <tr>

@@ -32,62 +32,62 @@
             <h2 id="cat-pedigree">Родословная</h2>
             <table class="cat-pedigree">
               <tr>
-                <td rowspan="8"><p>Pillowtalk`s Commander</p><p class="cat-pedigree-color">MCO black white</p><a href="img/pedigree/jurga-001.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/pedigree/jurga-001.jpg"></a></td>
-                <td rowspan="4"><p>Elphinstone Pushkin</p><p class="cat-pedigree-color">MCO black white</p><a href="img/pedigree/jurga-011.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/jurga-011.jpg"></a></td>
-                <td rowspan="2"><p>Ch. Justcoons Peak Asso</p><p class="cat-pedigree-color">brown classic tabby</p><a href="img/pedigree/jurga-111.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-111.jpg"></a></td>
+                <td rowspan="8"><p>Pillowtalk`s Commander</p><p class="cat-pedigree-color">MCO black white</p><a href="img/pedigree/jurga-001.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="Pillowtalk`s Commander"><img src="img/pedigree/jurga-001.jpg"></a></td>
+                <td rowspan="4"><p>Elphinstone Pushkin</p><p class="cat-pedigree-color">MCO black white</p><a href="img/pedigree/jurga-011.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Elphinstone Pushkin"><img src="img/pedigree/jurga-011.jpg"></a></td>
+                <td rowspan="2"><p>Ch. Justcoons Peak Asso</p><p class="cat-pedigree-color">brown classic tabby</p><a href="img/pedigree/jurga-111.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Ch. Justcoons Peak Asso"><img src="img/pedigree/jurga-111.jpg"></a></td>
                 <td><p>Vens Passion Kaiser Barbarosa</p><p class="cat-pedigree-color">red silver classic tabby</p></td>
               </tr>
               <tr>
                 <td><p>Justcoons Ode to Elize</p><p class="cat-pedigree-color">black white</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Elphinstone Heaven</p><p class="cat-pedigree-color">brown classic tabby white</p><a href="img/pedigree/jurga-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-112.jpg"></a></td>
+                <td rowspan="2"><p>Elphinstone Heaven</p><p class="cat-pedigree-color">brown classic tabby white</p><a href="img/pedigree/jurga-112.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Elphinstone Heaven"><img src="img/pedigree/jurga-112.jpg"></a></td>
                 <td><p>Pirat Black od Vajgaru*CZ</p><p class="cat-pedigree-color">black silver classic tabby</p></td>
               </tr>
               <tr>
                 <td><p>Pillowtalk's Jambalaya</p><p class="cat-pedigree-color">blue classic tabby white</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>Pillowtalk´s Tara</p><p class="cat-pedigree-color">MCO brown torbie</p><a href="img/pedigree/jurga-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/jurga-012.jpg"></a></td>
-                <td rowspan="2"><p>Cool Mation´s Angel Sky</p><p class="cat-pedigree-color">black</p><a href="img/pedigree/jurga-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-121.jpg"></a></td>
+                <td rowspan="4"><p>Pillowtalk´s Tara</p><p class="cat-pedigree-color">MCO brown torbie</p><a href="img/pedigree/jurga-012.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Pillowtalk´s Tara"><img src="img/pedigree/jurga-012.jpg"></a></td>
+                <td rowspan="2"><p>Cool Mation´s Angel Sky</p><p class="cat-pedigree-color">black</p><a href="img/pedigree/jurga-121.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Cool Mation´s Angel Sky"><img src="img/pedigree/jurga-121.jpg"></a></td>
                 <td><p>Pillowtalk´s Xtro Energie</p><p class="cat-pedigree-color">brown classic tabby</p></td>
               </tr>
               <tr>
                 <td><p>Timberhills Chelsea</p><p class="cat-pedigree-color">black  tortie</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Pillowtalk´s United Colour</p><p class="cat-pedigree-color">brown classic torbie</p><a href="img/pedigree/jurga-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-122.jpg"></a></td>
+                <td rowspan="2"><p>Pillowtalk´s United Colour</p><p class="cat-pedigree-color">brown classic torbie</p><a href="img/pedigree/jurga-122.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Pillowtalk´s United Colour"><img src="img/pedigree/jurga-122.jpg"></a></td>
                 <td><p>Cool Motion´s Chipsy</p><p class="cat-pedigree-color">brown classic tabby white</p></td>
               </tr>
               <tr>
                 <td><p>Pillowtalk's Velvet</p><p class="cat-pedigree-color">blue classic torbie</p></td>
               </tr>
               <tr>
-                <td rowspan="8"><p>CH. LongTips Altziona</p><p class="cat-pedigree-color">MCO f 22</p><a href="img/pedigree/jurga-002.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="КотОбормот"><img src="img/pedigree/jurga-002.jpg"></a></td>
-                <td rowspan="4"><p>Favorite Angel Oxford</p><p class="cat-pedigree-color">MCO d 22 09</p><a href="img/pedigree/jurga-021.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/jurga-021.jpg"></a></td>
-                <td rowspan="2"><p>Golden Soul Sherchan</p><p class="cat-pedigree-color">MCO d 22</p><a href="img/pedigree/jurga-211.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-211.jpg"></a></td>
+                <td rowspan="8"><p>CH. LongTips Altziona</p><p class="cat-pedigree-color">MCO f 22</p><a href="img/pedigree/jurga-002.jpg" class="colorbox  pedigree-img  pedigree-img-1" title="CH. LongTips Altziona"><img src="img/pedigree/jurga-002.jpg"></a></td>
+                <td rowspan="4"><p>Favorite Angel Oxford</p><p class="cat-pedigree-color">MCO d 22 09</p><a href="img/pedigree/jurga-021.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Favorite Angel Oxford"><img src="img/pedigree/jurga-021.jpg"></a></td>
+                <td rowspan="2"><p>Golden Soul Sherchan</p><p class="cat-pedigree-color">MCO d 22</p><a href="img/pedigree/jurga-211.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Golden Soul Sherchan"><img src="img/pedigree/jurga-211.jpg"></a></td>
                 <td><p>WCh Dynamitcats Snow Survivor</p><p class="cat-pedigree-color">MCO w 62</p></td>
               </tr>
               <tr>
                 <td><p>Lights of Moscow Vivien Lee</p><p class="cat-pedigree-color">MCO d 22 03</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Moscow Star`s Lady Winter</p><p class="cat-pedigree-color">MCO f 22 03</p><a href="img/pedigree/jurga-212.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-212.jpg"></a></td>
+                <td rowspan="2"><p>Moscow Star`s Lady Winter</p><p class="cat-pedigree-color">MCO f 22 03</p><a href="img/pedigree/jurga-212.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Moscow Star`s Lady Winter"><img src="img/pedigree/jurga-212.jpg"></a></td>
                 <td><p>ECh Gentle Giant`s Dizzi Rapture</p><p class="cat-pedigree-color">MCO n 23</p></td>
               </tr>
               <tr>
                 <td><p>GICh Golden Soul Camomile</p><p class="cat-pedigree-color">MCO d 23 03</p></td>
               </tr>
               <tr>
-                <td rowspan="4"><p>Gamma Long Meadow</p><p class="cat-pedigree-color">MCO f 24 09</p><a href="img/pedigree/jurga-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="КотОбормот"><img src="img/pedigree/jurga-022.jpg"></a></td>
-                <td rowspan="2"><p>Ch Coolmotion`s Amarango</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/jurga-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-221.jpg"></a></td>
+                <td rowspan="4"><p>Gamma Long Meadow</p><p class="cat-pedigree-color">MCO f 24 09</p><a href="img/pedigree/jurga-022.jpg" class="colorbox  pedigree-img  pedigree-img-2" title="Gamma Long Meadow"><img src="img/pedigree/jurga-022.jpg"></a></td>
+                <td rowspan="2"><p>Ch Coolmotion`s Amarango</p><p class="cat-pedigree-color">MCO n</p><a href="img/pedigree/jurga-221.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Ch Coolmotion`s Amarango"><img src="img/pedigree/jurga-221.jpg"></a></td>
                 <td><p>Pillowtalk`s Xtro Energie</p><p class="cat-pedigree-color">MCO n 22</p></td>
               </tr>
               <tr>
                 <td><p>Timberhills Chelsea</p><p class="cat-pedigree-color">MCO f</p></td>
               </tr>
               <tr>
-                <td rowspan="2"><p>Baila Long Meadow</p><p class="cat-pedigree-color">MCO f 24 09</p><a href="img/pedigree/jurga-222.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="КотОбормот"><img src="img/pedigree/jurga-222.jpg"></a></td>
+                <td rowspan="2"><p>Baila Long Meadow</p><p class="cat-pedigree-color">MCO f 24 09</p><a href="img/pedigree/jurga-222.jpg" class="colorbox  pedigree-img  pedigree-img-3" title="Baila Long Meadow"><img src="img/pedigree/jurga-222.jpg"></a></td>
                 <td><p>ICh La-Mansh Krasnyj Dar</p><p class="cat-pedigree-color">MCO d 23 09</p></td>
               </tr>
               <tr>
