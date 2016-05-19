@@ -1180,7 +1180,7 @@ a:active {
   display: block;
   min-height: 275px;
   text-align: center;
-  background: url(../img/bg-logo_2.0.png) 0 -10px no-repeat;
+  background: url(../img/bg-header-wrap.png) 0 -10px no-repeat;
   background-size: 1000px;
 }
 .logo {
@@ -1424,20 +1424,20 @@ text-align: center;
 }
 .footer-container {
   margin: 0 auto;
-  max-width: 960px;
-  background: url(../img/bg-footer.png) 0 0 no-repeat;
-  background-size: 953px;
+  max-width: 1050px;
+  background: url(../img/bg-footer.png) 15px 0 no-repeat;
+  background-size: 1024px;
   height: 320px;
 }
 .footer-copy {
   text-align: center;
   color: #777;
-  margin-top: 245px;
+  margin-top: 150px;
 }
 .index .footer-container {
-  background-size: 846px;
-  background-position: 54px 0;
+  background-size: 918px;
+  background-position: 66px 0;
 }
 .index .footer-copy {
-  margin-top: 220px;
+  margin-top: 135px;
 }
