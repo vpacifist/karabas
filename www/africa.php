@@ -5,17 +5,15 @@
       <div class="container cat-demo">
       <h1>HoneyDevil AFRICA</h1>
         <div class="row">
-          <div class="col-lg-7">
-            <p>Окрас:  чёрная черепаха<br/>MCO f<br/>Дата рождения: 30.11.2015<br/>Заводчик: Елисеева Юлия<br/>Владелец: Журавлева Ольга</p>
+          <div class="col-lg-5  cat-info">
+            <p><b>Окрас:</b>  чёрная черепаха<br/><b>MCO f</b><br/><b>Дата рождения:</b> 30.11.2015<br/><b>Заводчик:</b> Елисеева Юлия<br/><b>Владелец:</b> Журавлева Ольга</p>
             <a href="#cat-pedigree" class="anchor-link">Родословная</a>
 <!--             <a href="#cat-show-res" class="anchor-link">Шоу результаты</a>
- --><!--             <p>Из описания экспертов:</p>
-            <p><b>Тело</b>: ***<br/><b>Глаза</b>: ***<br/><b>Уши</b>: ***<br/><b>Шерсть</b>: ***<br/><b>Хвост</b>: ***<br/>*** общая информация ***</p>
- -->            <p>Генетический тест на гипертрофическую кардиомиопатию мейн-кунов ( HCM ) - N/N<br/>Генетический тест на аутосомно-доминантный поликистоз почек  ( ADPKD ) - N/N <br/>Генетический тест на дефицит пируваткиназы ( PKdef ) - N/N <br/>Генетический тест на аутосомно-рецессивную спинально-мышечную атрофию ( SMA ) - N/N<br/>Коронавирус (Canine/Feline Coronavirus/FIPV) – не обнаружено<br/>Панлейкопения (Virus panleukopenia Feline/ FPV) – не обнаружено<br/>Хламидиоз (Chlamydophila spp) – не обнаружено<br/>Токсоплазмоз (Toxoplasma gondii) – не обнаружено<br/>Патогенные микоплазмы кошек (M. felis, M. gateae) – не обнаружено<br>Грибы рода Trichophyton – не обнаружено<br>Грибы рода Microsporum – не обнаружено</p>
+ -->
           </div>
           <!-- Personal Photos -->
-          <div class="col-lg-5 cat-demo-images">
-            <div class="fotorama"  data-nav="thumbs"  data-allowfullscreen="true">
+          <div class="col-lg-7  cat-demo-images">
+            <div class="fotorama"  data-height="200"  data-nav="thumbs"  data-allowfullscreen="true">
               <img src="img/africa/00-04-2.jpg" data-caption="4 месяца">
               <img src="img/africa/00-04.jpg" data-caption="4 месяца">
               <img src="img/africa/00-035-2.jpg" data-caption="3,5 месяца">
@@ -26,6 +24,11 @@
               <img src="img/africa/00-0075-2.jpg" data-caption="3 недели">
               <img src="img/africa/00-0075.jpg" data-caption="3 недели">
             </div>
+          </div>
+          <div class="col-lg-12  cat-expert-description">
+ <!--             <h2>Из описания экспертов</h2>
+            <p><b>Тело</b>: ***<br/><b>Глаза</b>: ***<br/><b>Уши</b>: ***<br/><b>Шерсть</b>: ***<br/><b>Хвост</b>: ***<br/>*** общая информация ***</p>
+ -->            <p>Генетический тест на гипертрофическую кардиомиопатию мейн-кунов ( HCM ) - N/N<br/>Генетический тест на аутосомно-доминантный поликистоз почек  ( ADPKD ) - N/N <br/>Генетический тест на дефицит пируваткиназы ( PKdef ) - N/N <br/>Генетический тест на аутосомно-рецессивную спинально-мышечную атрофию ( SMA ) - N/N<br/>Коронавирус (Canine/Feline Coronavirus/FIPV) – не обнаружено<br/>Панлейкопения (Virus panleukopenia Feline/ FPV) – не обнаружено<br/>Хламидиоз (Chlamydophila spp) – не обнаружено<br/>Токсоплазмоз (Toxoplasma gondii) – не обнаружено<br/>Патогенные микоплазмы кошек (M. felis, M. gateae) – не обнаружено<br>Грибы рода Trichophyton – не обнаружено<br>Грибы рода Microsporum – не обнаружено</p>
           </div>
           <!-- Pedigree -->
           <div class="col-lg-12">
