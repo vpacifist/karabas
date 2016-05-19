@@ -11,7 +11,7 @@
             <a href="#cat-show-res" class="anchor-link">Шоу результаты</a>
           </div>
           <div class="col-lg-7 cat-demo-images">
-            <div class="fotorama"  data-nav="thumbs"  data-allowfullscreen="true">
+            <div class="fotorama"  data-height="200"  data-nav="thumbs"  data-allowfullscreen="true">
               <img src="img/tosha/00-11-4.jpg" data-caption="11 месяцев">
               <img src="img/tosha/00-11-3.jpg" data-caption="11 месяцев">
               <img src="img/tosha/00-11-2.jpg" data-caption="11 месяцев">
