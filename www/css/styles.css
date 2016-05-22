@@ -1461,6 +1461,21 @@ text-align: center;
   max-width: 65%;
 }
 
+
+/* Gallery */
+.album-smile {
+  text-align: center;
+}
+.album-smile .colorbox {
+  display: block;
+  overflow: hidden;
+  height: 150px;
+  padding: 5px;
+}
+/*.album-smile img {
+  max-height: 100%;
+}*/
+
 /* Footer */
 .footer-container:before {
   content: " ";
