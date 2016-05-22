@@ -1476,6 +1476,31 @@ text-align: center;
   max-height: 100%;
 }*/
 
+
+/* Contacts */
+.contacts-link:before {
+  content: "";
+  position: relative;
+  top: 7px;
+  margin-right: 5px;
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
+.link-fb:before {
+  background: url(../img/icon-fb.png) 0 0 no-repeat;
+  background-size: contain;
+}
+.link-tel:before {
+  background: url(../img/icon-tel.png) 0 0 no-repeat;
+  background-size: contain;
+}
+.link-mail:before {
+  background: url(../img/icon-mail.png) 0 0 no-repeat;
+  background-size: contain;
+}
+
+
 /* Footer */
 .footer-container:before {
   content: " ";
