@@ -1393,6 +1393,10 @@ text-align: center;
 .buy-info {
   text-decoration: underline;
 }
+.kids-info {
+  background: #D6C2A4;
+  padding: 10px;
+}
 .kids .anchor-link {
   margin: 0 10px 0;
 }
