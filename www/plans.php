@@ -4,18 +4,24 @@
       <div class="container plans">
         <h1>Планы</h1>
         <div class="row plans-item">
-          <div class="col-lg-5">
+          <p class="plans-item-info">Вязка состоялась, рождение котят ожидаем в начале мая.</p>
+          <p class="plans-item-info">Вы можете оставить заявку на котенка от этой пары, позвонив или написав нам.</p>
+          <div class="col-lg-3">
             <a href="tosha.php">
               <p class="parent-name">GICh (WCF)<br/>Captain Coon’s Aristotel</p>
               <img src="img/tosha.jpg" alt="Captain Coon’s Aristotel" >
             </a>
           </div>
-          <div class="col-lg-2">
-            <h2>Помёт A</h2>
-            <p class="kids-date"><b>Май 2016</b></p>
+          <div class="col-lg-6">
+            <h2>Помёт A - май 2016</h2>
             <a href="#plans-a-brood-pedigree" class="brood-colorbox">Родословная помёта</a>
+            <div class="plans-item-colors">
+              <p class="m0"><b>Ожидаемые окрасы:</b></p>
+              <p><b>Коты</b> – черный солид, черный мраморный, голубой солид, голубой мраморный, эти окрасы могут быть серебристые, а также с белым и без него.</p>
+              <p><b>Кошки</b> – черная и голубая мраморные черепахи, черная и голубая солидные черепаха, эти окрасы могут быть серебристые, а также с белым и без него.</p>
+            </div>
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-3">
             <a href="tigra.php">
               <p class="parent-name">GICh (WCF)<br/>Solar Wind Charming Lady</p>
               <img src="img/tigra.jpg" alt="Solar Wind Charming Lady" >

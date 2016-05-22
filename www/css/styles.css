@@ -1188,6 +1188,7 @@ h1 {
   background-size: 895px;
 }
 
+
 /* Header */
 .header-lang {
   position: absolute;
@@ -1428,12 +1429,20 @@ text-align: center;
 }
 
 .plans-item img {
-  max-width: 50%
+  max-width: 70%
 }
 /*.plans-item h2, .plans-item p {
   margin: 0;
 }*/
-
+.plans-item-info {
+  margin: 0;
+}
+.plans-item-colors {
+  text-align: left;
+}
+.brood-colorbox {
+  text-decoration: underline;
+}
 
 /* Graduates */
 .graduates {
