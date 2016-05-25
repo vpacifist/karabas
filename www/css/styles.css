@@ -1508,11 +1508,11 @@ text-align: center;
 }
 
 .contacts-form {
-  margin-top: 20px;
+  margin: 20px 0 10px 0;
 }
 .contacts-form label {
   display: block;
-  margin-top: 5px;
+  margin: 5px 0px;
 }
 .contacts-form span {
   display: block;
@@ -1528,6 +1528,7 @@ text-align: center;
   content: '*';
   color: red;
 }
+
 
 /* Footer */
 .footer-container:before {
