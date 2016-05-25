@@ -163,7 +163,8 @@
           </div>
         </div>
 
-<!--         <div id="kids-brood-item-second" class="kids-brood-item">
+<!--
+        <div id="kids-brood-item-second" class="kids-brood-item">
           <div class="row kids-parent">
             <h2>Помёт B</h2>
             <div class="col-lg-6">
@@ -183,45 +184,6 @@
               <a href="#b-brood-pedigree" class="brood-colorbox">Ссылка на новую родословную помёта B</a>
             </div>
           </div>
-
-          <table class="kids-brood-table">
-            <tr>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-            </tr>
-            <tr>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-            </tr>
-            <tr>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-            </tr>
-            <tr>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-            </tr>
-            <tr>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-            </tr>
-          </table>
-          <p>Текст с информацией о продаже. Кошка и человек познакомились не просто давно, очень давно, - более шести тысяч лет назад. И даже после многих сотен лет совместного сосуществования кошка остается неразгаданной тайной - гордым, независимым и грациозным существом. Это загадочное создание вполне легко сможет обойтись без человеческого общества и общения с человеком. Чего не скажешь о самом человеке – в наш век стрессов и невообразимых нагрузок обойтись без этого животного очень непросто, а порой и просто нереально.</p>
         </div>
 
         <div style='display:none'>
@@ -239,6 +201,7 @@
             </table>
           </div>
         </div>
+
 
         <div id="kids-brood-item-third" class="kids-brood-item">
           <div class="row kids-parent">
@@ -260,45 +223,6 @@
               <a href="#c-brood-pedigree" class="brood-colorbox">Ссылка на новую родословную помёта C</a>
             </div>
           </div>
-
-          <table class="kids-brood-table">
-            <tr>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-            </tr>
-            <tr>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-            </tr>
-            <tr>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-            </tr>
-            <tr>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-            </tr>
-            <tr>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-            </tr>
-          </table>
-          <p>Текст с информацией о продаже. Кошка и человек познакомились не просто давно, очень давно, - более шести тысяч лет назад. И даже после многих сотен лет совместного сосуществования кошка остается неразгаданной тайной - гордым, независимым и грациозным существом. Это загадочное создание вполне легко сможет обойтись без человеческого общества и общения с человеком. Чего не скажешь о самом человеке – в наш век стрессов и невообразимых нагрузок обойтись без этого животного очень непросто, а порой и просто нереально.</p>
         </div>
 
         <div style='display:none'>
@@ -326,6 +250,16 @@
     <script src="js/jquery.colorbox-min.js"></script>
     <script>
       $( document ).ready(function() {
+        $('a.kids-colorbox').colorbox({
+          // rel:$(this).attr('src'),
+          inline:true,
+          innerWidth:"90%",
+          innerHeight:"90%"
+        });
+      });
+    </script>
+    <script>
+      $( document ).ready(function() {
         $('a.brood-colorbox').colorbox({
           inline:true,
           maxWidth:"90%"
@@ -334,9 +268,9 @@
     </script>
     <script>
       $( document ).ready(function() {
-        $('a.kids-colorbox').colorbox({
+        $('a.colorbox').colorbox({
           // rel:$(this).attr('src'),
-          inline:true,
+          rel:"colorbox",
           innerWidth:"90%",
           innerHeight:"90%"
         });
