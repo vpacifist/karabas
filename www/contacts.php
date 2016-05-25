@@ -12,6 +12,7 @@
           <label required><span class="required-field">e-mail:</span><input type="email" name="email" ></label>
           <label required><span class="required-field">Текст письма:</span><textarea class="required-field" name="mess" id=""></textarea></label>
           <input type="submit" id="contacts-submit">
+        <a href="skype:olgazhur66" class="block  contacts-link  link-skype">olgazhur66</a>
         </form>
       </div>
     </main>
