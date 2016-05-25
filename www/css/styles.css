@@ -1170,22 +1170,25 @@ h1 {
   position: relative;
   right: 90px;
   width: 1000px;
-  height: 140px;
+  height: 70px;
   margin: 0 auto;
-  padding: 50px 0;
+  padding: 20px 0;
   background: url(../img/bg-h1.png) 0px -20px no-repeat;
-  background-size: 1005px;
+  background-size: 1005px 110px;
   text-align: center;
 }
 .index h1 {
   position: relative;
   right: 65px;
   width: 870px;
-  height: 130px;
+  height: 80px;
   margin: 0 auto;
-  padding: 50px 0;
+  padding: 20px 0;
   background: url(../img/bg-h1.png) 0px -20px no-repeat;
-  background-size: 895px;
+  background-size: 895px 110px;
+}
+h2 {
+  margin-top: 0;
 }
 
 
@@ -1531,18 +1534,16 @@ text-align: center;
   margin: 0 auto;
   max-width: 1050px;
   background: url(../img/bg-footer.png) 15px 0 no-repeat;
-  background-size: 1024px;
-  height: 320px;
+  background-size: 1024px 150px;
+  height: 200px;
 }
 .footer-copy {
   text-align: center;
   color: #777;
-  margin-top: 150px;
+  margin-top: 85px;
 }
 .index .footer-container {
-  background-size: 918px;
+  background-size: 918px 150px;
   background-position: 66px 0;
 }
-.index .footer-copy {
-  margin-top: 135px;
-}
+
