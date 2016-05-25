@@ -15,7 +15,6 @@
               <img src="img/tosha/00-11-4.jpg" data-caption="11 месяцев">
               <img src="img/tosha/00-11-3.jpg" data-caption="11 месяцев">
               <img src="img/tosha/00-11-2.jpg" data-caption="11 месяцев">
-              <img src="img/tosha/00-11.jpg" data-caption="11 месяцев">
               <img src="img/tosha/00-095-5.jpg" data-caption="9,5 месяцев">
               <img src="img/tosha/00-095-4.jpg" data-caption="9,5 месяцев">
               <img src="img/tosha/00-095-3.jpg" data-caption="9,5 месяцев">

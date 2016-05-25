@@ -36,15 +36,9 @@
           <div class="col-lg-3"><a href="img/gallery/smile/30.jpg" class="colorbox"><img src="img/gallery/smile/30.jpg" alt="photo"></a></div>
           <div class="col-lg-3"><a href="img/gallery/smile/31.jpg" class="colorbox"><img src="img/gallery/smile/31.jpg" alt="photo"></a></div>
           <div class="col-lg-3"><a href="img/gallery/smile/32.jpg" class="colorbox"><img src="img/gallery/smile/32.jpg" alt="photo"></a></div>
-          <div class="col-lg-3"><a href="img/gallery/smile/33.jpg" class="colorbox"><img src="img/gallery/smile/33.jpg" alt="photo"></a></div>
-          <div class="col-lg-3"><a href="img/gallery/smile/34.jpg" class="colorbox"><img src="img/gallery/smile/34.jpg" alt="photo"></a></div>
           <div class="col-lg-3"><a href="img/gallery/smile/35.jpg" class="colorbox"><img src="img/gallery/smile/35.jpg" alt="photo"></a></div>
-          <div class="col-lg-3"><a href="img/gallery/smile/36.jpg" class="colorbox"><img src="img/gallery/smile/36.jpg" alt="photo"></a></div>
           <div class="col-lg-3"><a href="img/gallery/smile/37.jpg" class="colorbox"><img src="img/gallery/smile/37.jpg" alt="photo"></a></div>
-          <div class="col-lg-3"><a href="img/gallery/smile/38.jpg" class="colorbox"><img src="img/gallery/smile/38.jpg" alt="photo"></a></div>
-          <div class="col-lg-3"><a href="img/gallery/smile/39.jpg" class="colorbox"><img src="img/gallery/smile/39.jpg" alt="photo"></a></div>
           <div class="col-lg-3"><a href="img/gallery/smile/40.jpg" class="colorbox"><img src="img/gallery/smile/40.jpg" alt="photo"></a></div>
-          <div class="col-lg-3"><a href="img/gallery/smile/41.jpg" class="colorbox"><img src="img/gallery/smile/41.jpg" alt="photo"></a></div>
 
 
         </div>

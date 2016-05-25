@@ -7,7 +7,7 @@
           <div class="col-lg-4">
             <p><b>Улыбнись!</b></p>
             <a href="album-smile.php" >
-              <img src="img/gallery/smile/01.jpg" alt="Имя фотографии">
+              <img src="img/gallery/smile/26.jpg" alt="Имя фотографии">
             </a>
           </div>
 <!--           <div class="col-lg-4">
