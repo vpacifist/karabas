@@ -1416,6 +1416,10 @@ text-align: center;
   font-size: 18px;
   font-weight: bold;
 }
+.kids-name {
+  font-weight: bold;
+}
+
 .kids-brood-table td {
   border: none;
 }
