@@ -1517,11 +1517,12 @@ text-align: center;
 .contacts-form span {
   display: block;
 }
-.contacts-form input {
-  width: 300px;
-}
+.contacts-form input,
 .contacts-form textarea {
   width: 300px;
+  padding: 0 5px;
+}
+.contacts-form textarea {
   height: 150px;
 }
 .contacts-form .required-field:after{

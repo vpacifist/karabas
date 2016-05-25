@@ -9,45 +9,39 @@
         <a href="tel:+79213738373" class="block  contacts-link  link-tel">+7 921 373-83-73</a>
         <a href="skype:olgazhur66" class="block  contacts-link  link-skype">olgazhur66</a>
 
-        <form action="" class="contacts-form">
-          <label ><span class="required-field">Имя:</span><input type="text" id="name" required></label>
-          <label ><span class="required-field">e-mail:</span><input type="email" id="email" required></label>
-          <label ><span class="required-field">Текст письма:</span><textarea id="mess" id="" required></textarea></label>
-          <input type="button" id="contacts-submit" value="Отправить" class="input-send">
+        <form method="POST" id="feedback-form" class="contacts-form">
+          <label ><span class="required-field">Имя:</span><input type="text" name="nameFF" required x-autocompletetype="name"></label>
+          <label ><span class="required-field">e-mail:</span><input type="email" name="contactFF" required x-autocompletetype="email"></label>
+          <label ><span class="required-field">Текст письма:</span><textarea name="messageFF" required></textarea></label>
+          <input type="submit" value="Отправить">
         </form>
         <div class="contacts-alerts"></div>
       </div>
     </main>
 
+
+
     <?php include "footer.php" ?>
 
-    <script src="js/jquery-1.12.0.min.js"></script>
-    <script>
-        $(document).ready(function(){
-            $('#contacts-submit').click(function(){
-                // собираем данные с формы
-                var name    = $('#name').val();
-                var email   = $('#email').val();
-                var mess    = $('#mess').val();
-                // отправляем данные
-                $.ajax({
-                    url: "mail.php", // куда отправляем
-                    type: "post", // метод передачи
-                    dataType: "json", // тип передачи данных
-                    data: { // что отправляем
-                        "name":    name,
-                        "email":   email,
-                        "mess":    mess
-                    },
-                    // после получения ответа сервера
-                    success: function(data){
-                        $('.contacts-alerts').html(data.result); // выводим ответ сервера
-                    }
-                });
-            });
-        });
-    </script>
-
+    <script>
+      document.getElementById('feedback-form').addEventListener('submit', function(evt){
+        var http = new XMLHttpRequest(), f = this;
+        evt.preventDefault();
+        http.open("POST", "mail1.php", true);
+        http.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+        http.send("nameFF=" + f.nameFF.value + "&contactFF=" + f.contactFF.value + "&messageFF=" + f.messageFF.value);
+        http.onreadystatechange = function() {
+          if (http.readyState == 4 && http.status == 200) {
+            alert(http.responseText + ', Ваше сообщение отправлено!\n');
+            f.messageFF.removeAttribute('value'); // очистить поле сообщения (две строки)
+            f.messageFF.value='';
+          }
+        }
+        http.onerror = function() {
+          alert('Извините, данные не были переданы');
+        }
+      }, false);
+    </script>
 
   </body>
 </html>
