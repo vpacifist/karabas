@@ -4,8 +4,8 @@
       <div class="container plans">
         <h1>Планы</h1>
         <div class="row plans-item">
-          <p class="plans-item-info">Вязка состоялась, рождение котят ожидаем в начале мая.</p>
-          <p class="plans-item-info">Вы можете оставить заявку на котенка от этой пары, позвонив или написав нам.</p>
+<!--           <p class="plans-item-info">Вязка состоялась, рождение котят ожидаем в начале мая.</p>
+ -->          <p class="plans-item-info">Вы можете оставить заявку на котенка от этой пары, позвонив или написав нам.</p>
           <div class="col-lg-3">
             <a href="tosha.php">
               <p class="parent-name">GICh (WCF)<br/>Captain Coon’s Aristotel</p>
@@ -13,8 +13,8 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <h2>Помёт A - май 2016</h2>
-            <a href="#plans-a-brood-pedigree" class="brood-colorbox">Родословная помёта</a>
+<!--             <h2>Помёт A - май 2016</h2>
+ -->            <a href="#plans-a-brood-pedigree" class="brood-colorbox">Родословная помёта</a>
             <div class="plans-item-colors">
               <p class="m0"><b>Ожидаемые окрасы:</b></p>
               <p><b>Коты</b> – черный солид, черный мраморный, голубой солид, голубой мраморный, эти окрасы могут быть серебристые, а также с белым и без него.</p>
