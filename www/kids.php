@@ -68,47 +68,30 @@
                 <img src="img/tigra.jpg" alt="Solar Wind Charming Lady" >
               </a>
             </div>
-
           </div>
-
-          <table class="kids-brood-table">
-            <tr>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-              <td>Пол</td>
-            </tr>
-            <tr>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-              <td>Имя кота</td>
-            </tr>
-            <tr>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-              <td><a href="kid-demo.php"><img src="img/cat-demo1.jpg" alt="Котёнок"></a></td>
-            </tr>
-            <tr>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-              <td>Информация о коте</td>
-            </tr>
-            <tr>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-              <td>Статус</td>
-            </tr>
-          </table>
-          <p>Текст с информацией о продаже. Кошка и человек познакомились не просто давно, очень давно, - более шести тысяч лет назад. И даже после многих сотен лет совместного сосуществования кошка остается неразгаданной тайной - гордым, независимым и грациозным существом. Это загадочное создание вполне легко сможет обойтись без человеческого общества и общения с человеком. Чего не скажешь о самом человеке – в наш век стрессов и невообразимых нагрузок обойтись без этого животного очень непросто, а порой и просто нереально.</p>
+          <div class="row">
+            <div class="col-lg-4">
+              <p class="kids-male">А1 (Ален Делон)</p>
+              <p class="kids-name">Кот</p>
+              <a href="a1.php"><img src="img/kids/a1/11.jpg" alt="Котёнок"></a>
+              <p class="kids-about">a 22 09</p>
+              <p class="kids-status">Опция</p>
+            </div>
+            <div class="col-lg-4">
+              <p class="kids-male">А2 (Аль Пачино)</p>
+              <p class="kids-name">Кот</p>
+              <a href="a2.php"><img src="img/kids/a2/05.jpg" alt="Котёнок"></a>
+              <p class="kids-about">ns 22</p>
+              <p class="kids-status">Опция</p>
+            </div>
+            <div class="col-lg-4">
+              <p class="kids-male">А3 (Анджелина Джоли)</p>
+              <p class="kids-name">Кошка</p>
+              <a href="a3.php"><img src="img/kids/a3/08.jpg" alt="Котёнок"></a>
+              <p class="kids-about">fs 22 09</p>
+              <p class="kids-status">Опция</p>
+            </div>
+          </div>
         </div>
 
         <div style='display:none'>
@@ -126,7 +109,7 @@
             </table>
           </div>
         </div>
- -->
+
 <!--         <div id="kids-brood-item-second" class="kids-brood-item">
           <div class="row kids-parent">
             <h2>Помёт B</h2>
