@@ -59,7 +59,7 @@
             </div>
             <div class="col-lg-2">
               <h2>Помёт A</h2>
-              <p class="kids-date"><b>Дата</b></p>
+              <p class="kids-date"><b>7 мая 2016</b></p>
               <a href="#a-brood-pedigree" class="brood-colorbox">Родословная помёта A</a>
             </div>
             <div class="col-lg-5">
