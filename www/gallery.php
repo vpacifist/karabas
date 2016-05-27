@@ -5,8 +5,8 @@
         <h1>Галерея</h1>
         <div class="row">
           <div class="col-lg-4">
-            <p><b>Улыбнись!</b></p>
-            <a href="album-smile.php" >
+          <a href="album-smile.php" class="cats-name">Улыбнись!</a>
+              <a href="album-smile.php" >
               <img src="img/gallery/smile/26.jpg" alt="Имя фотографии">
             </a>
           </div>

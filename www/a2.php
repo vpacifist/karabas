@@ -9,19 +9,31 @@
         <div class="row">
           <div class="col-lg-3">
             <p class="kid-photo-age text-center">1 неделя</p>
-            <a href="img/kids/a2/01.jpg" class="kid-colorbox"><img src="img/kids/a2/01.jpg" alt="1 неделя"></a>
-          </div>
-          <div class="col-lg-3">
-            <p class="kid-photo-age text-center">1 неделя</p>
             <a href="img/kids/a2/02.jpg" class="kid-colorbox"><img src="img/kids/a2/02.jpg" alt="1 неделя"></a>
           </div>
           <div class="col-lg-3">
             <p class="kid-photo-age text-center">1 неделя</p>
-            <a href="img/kids/a2/03.jpg" class="kid-colorbox"><img src="img/kids/a2/03.jpg" alt="1 неделя"></a>
+            <a href="img/kids/a2/01.jpg" class="kid-colorbox"><img src="img/kids/a2/01.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">1 неделя</p>
+            <a href="img/kids/a2/06.jpg" class="kid-colorbox"><img src="img/kids/a2/06.jpg" alt="1 неделя"></a>
           </div>
           <div class="col-lg-3">
             <p class="kid-photo-age text-center">1 неделя</p>
             <a href="img/kids/a2/04.jpg" class="kid-colorbox"><img src="img/kids/a2/04.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">1 день</p>
+            <a href="img/kids/a2/14.jpg" class="kid-colorbox"><img src="img/kids/a2/14.jpg" alt="1 неделя"></a> 
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">1 день</p>
+            <a href="img/kids/a2/15.jpg" class="kid-colorbox"><img src="img/kids/a2/15.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">1 день</p>
+            <a href="img/kids/a2/16.jpg" class="kid-colorbox"><img src="img/kids/a2/16.jpg" alt="1 неделя"></a>
           </div>
         </div>
       </div>

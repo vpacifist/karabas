@@ -31,21 +31,21 @@
           </div>
           <div class="row">
             <div class="col-lg-4">
-              <p class="kids-name">А1 (Ален Делон)</p>
+            <a href="a1.php" class="kids-name">А1 (Ален Делон)</a>
               <p class="kids-sex">Кот</p>
               <a href="a1.php"><img src="img/kids/a1/11.jpg" alt="Котёнок"></a>
               <p class="kids-about">a 22 09</p>
               <p class="kids-status">Опция</p>
             </div>
             <div class="col-lg-4">
-              <p class="kids-name">А2 (Аль Пачино)</p>
+            <a href="a2.php" class="kids-name">А2 (Аль Пачино)</a>
               <p class="kids-sex">Кот</p>
               <a href="a2.php"><img src="img/kids/a2/05.jpg" alt="Котёнок"></a>
               <p class="kids-about">ns 22</p>
               <p class="kids-status">Опция</p>
             </div>
             <div class="col-lg-4">
-              <p class="kids-name">А3 (Анджелина Джоли)</p>
+            <a href="a3.php" class="kids-name">А3 (Анджелина Джоли)</a>
               <p class="kids-sex">Кошка</p>
               <a href="a3.php"><img src="img/kids/a3/08.jpg" alt="Котёнок"></a>
               <p class="kids-about">fs 22 09</p>
