@@ -3,16 +3,20 @@
 
     <main>
       <div class="container cat-demo">
-      <h1>RASCOON JURGA</h1>
+      <h1>HCh (WCF) RASCOON JURGA</h1>
         <div class="row">
           <div class="col-lg-5  cat-info">
             <p><b>Окрас:</b>  чёрная мраморная черепаха<br/><b>MCO f 22</b><br/><b>Дата рождения:</b> 9.12.2015<br/><b>Заводчик:</b> Рассыпина Светлана <br/><b>Владелец:</b> Журавлева Ольга</p>
             <a href="#cat-pedigree" class="anchor-link">Родословная</a>
-<!--             <a href="#cat-show-res" class="anchor-link">Шоу результаты</a>
- -->          </div>
+            <a href="#cat-show-res" class="anchor-link">Шоу результаты</a>
+          </div>
           <!-- Personal Photos -->
           <div class="col-lg-7 cat-demo-images">
             <div class="fotorama"  data-height="200"  data-nav="thumbs"  data-allowfullscreen="true">
+              <img src="img/jurga/02.jpg" data-caption="6 месяцев">
+              <img src="img/jurga/03.jpg" data-caption="6 месяцев">
+              <img src="img/jurga/04.jpg" data-caption="6 месяцев">
+              <img src="img/jurga/01.jpg" data-caption="5 месяцев">
               <img src="img/jurga/00-035-3.jpg" data-caption="3,5 месяца">
               <img src="img/jurga/00-035-2.jpg" data-caption="3,5 месяца">
               <img src="img/jurga/00-035.jpg" data-caption="3,5 месяца">
@@ -26,9 +30,10 @@
           </div>
 
           <div class="col-lg-12  cat-expert-description">
-<!--             <p>Из описания экспертов:</p>
-            <p><b>Тело</b>: ***<br/><b>Глаза</b>: ***<br/><b>Уши</b>: ***<br/><b>Шерсть</b>: ***<br/><b>Хвост</b>: ***<br/>*** общая информация ***</p>
- -->            <p>Генетический тест на гипертрофическую кардиомиопатию мейн-кунов ( HCM ) - N/N<br/>Генетический тест на аутосомно-доминантный поликистоз почек  ( ADPKD ) - N/N <br/>Генетический тест на дефицит пируваткиназы ( PKdef ) - N/N <br/>Генетический тест на аутосомно-рецессивную спинально-мышечную атрофию ( SMA ) - N/N<br/>Коронавирус (Canine/Feline Coronavirus/FIPV) – не обнаружено<br/>Панлейкопения (Virus panleukopenia Feline/ FPV) – не обнаружено<br/>Хламидиоз (Chlamydophila spp) – не обнаружено<br/>Токсоплазмоз (Toxoplasma gondii) – не обнаружено<br/>Патогенные микоплазмы кошек (M. felis, M. gateae) – не обнаружено<br>Грибы рода Trichophyton – не обнаружено<br>Грибы рода Microsporum – не обнаружено</p>
+            <h2>Из описания экспертов</h2>
+            <p><b>Тело</b>: крупное, мускулистое, достаточно растянутое, на сильных ногах<br/><b>Голова</b>: крупная, отличной формы и пропорций, отличный профиль, сильный подбородок<br/><b>Глаза</b>: овальной отличной формы, косого постава<br/><b>Уши</b>: крупные с кисточками, прямо поставлены<br/><b>Шерсть</b>: отличной текстуры, рисунок читается<br/><b>Хвост</b>: длинный, гибкий, корректный, хорошо опушен<br/><b>Нарядная девочка, отличный шоу-темперамент!</b><br/>Юргоша очень общительная, ласковая и урчащая кошка с очень толстыми лапами, не уступающими котам и сильным «крутым» подбородком! Настоящая лесная красавица!</p>
+
+            <p>Генетический тест на гипертрофическую кардиомиопатию мейн-кунов ( HCM ) - N/N<br/>Генетический тест на аутосомно-доминантный поликистоз почек  ( ADPKD ) - N/N <br/>Генетический тест на дефицит пируваткиназы ( PKdef ) - N/N <br/>Генетический тест на аутосомно-рецессивную спинально-мышечную атрофию ( SMA ) - N/N<br/>Коронавирус (Canine/Feline Coronavirus/FIPV) – не обнаружено<br/>Панлейкопения (Virus panleukopenia Feline/ FPV) – не обнаружено<br/>Хламидиоз (Chlamydophila spp) – не обнаружено<br/>Токсоплазмоз (Toxoplasma gondii) – не обнаружено<br/>Патогенные микоплазмы кошек (M. felis, M. gateae) – не обнаружено<br>Грибы рода Trichophyton – не обнаружено<br>Грибы рода Microsporum – не обнаружено</p>
           </div>
           <!-- Pedigree -->
           <div class="col-lg-12">
@@ -98,26 +103,23 @@
               </tr>
             </table>
           </div>
-<!--           <div class="col-lg-12">
+          <div class="col-lg-12">
             <h2 id="cat-show-res">Шоу результаты</h2>
             <table class="show-results">
               <tr>
                 <th>Date / Дата</th> <th>Show / Выставка</th> <th>Judge / Эксперты</th> <th>Results / Результаты</th>
               </tr>
               <tr>
-                <td>11.07.2015</td> <td>Санкт-Петербург, Всеволожск, «Котофей на даче»</td> <td>Olga Mironova</td> <td>EX1, nom BIS</td>
+                <td>07.05.2016</td> <td>Санкт-Петербург, международная выставка кошек</td> <td>Дина Смирнова</td> <td>EX1, nom BIS, <span class="color-red">WCF Ring Place 7</span></td>
               </tr>
               <tr>
-                <td>12.07.2015</td> <td>Санкт-Петербург, Всеволожск, «Котофей на даче»</td> <td>Tamara Sapozhnikova</td> <td>EX1, nom BIS, <span class="color-red">WCF Ring Place 10</span></td>
+                <td>08.05.2016</td> <td>Санкт-Петербург, международная выставка кошек</td> <td>Елена Бутомова</td> <td>EX1, nom BIS </td>
               </tr>
               <tr>
-                <td>18.07.2015</td> <td>Санкт-Петербург, международная выставка кошек</td> <td>Elena Butomova</td> <td>EX1, nom BIS, <span class="color-red">Best Kitten breed show</span></td>
-              </tr>
-              <tr>
-                <td>19.07.2015</td> <td>Санкт-Петербург, международная выставка кошек</td> <td><span class="color-red">Wojciech-Albert Kurkowski, Poland</span></td> <td>EX1, nom BIS, <span class="color-red">WCF Ring Place 10</span></td>
+                <td>09.05.2016</td> <td>Санкт-Петербург, международная выставка кошек</td> <td>Наталья Белова (Украина)</td> <td>EX1, nom BIS </td>
               </tr>
               <tr><td colspan="4" class="text-center"><span class="color-red">Закрыт титул Petit Champion – PCh WCF / Котенок Чемпион</span></td></tr>
-              <tr>
+              <!-- <tr>
                 <td>21.11.2015</td> <td>Санкт-Петербург, «ЗооШоу 2015»</td> <td>Екатерина Дудина</td> <td>EX1, nom BIS</td>
               </tr>
               <tr>
@@ -162,10 +164,10 @@
               <tr>
                 <td>07.03.2016</td> <td>Санкт-Петербург, "Весенний марафон"</td>  <td>Anna Nazarova</td>  <td>EX1</td>
               </tr>
-              <tr><td colspan="4" class="text-center"><span class="color-red">Закрыт титул Grand International Champion – GICh WCF / Большой Международный Чемпион WCF и открыл титул European Champion /Европейский ЧемпионWCF</span></td></tr>
+              <tr><td colspan="4" class="text-center"><span class="color-red">Закрыт титул Grand International Champion – GICh WCF / Большой Международный Чемпион WCF и открыл титул European Champion /Европейский ЧемпионWCF</span></td></tr> -->
             </table>
           </div>
- -->        </div>
+        </div>
       </div>
     </main>
 

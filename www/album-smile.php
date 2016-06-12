@@ -37,7 +37,7 @@
           <div class="col-lg-3"><a href="img/gallery/smile/31.jpg" class="colorbox"><img src="img/gallery/smile/31.jpg" alt="photo"></a></div>
           <div class="col-lg-3"><a href="img/gallery/smile/32.jpg" class="colorbox"><img src="img/gallery/smile/32.jpg" alt="photo"></a></div>
           <div class="col-lg-3"><a href="img/gallery/smile/35.jpg" class="colorbox"><img src="img/gallery/smile/35.jpg" alt="photo"></a></div>
-          <div class="col-lg-3"><a href="img/gallery/smile/37.jpg" class="colorbox"><img src="img/gallery/smile/37.jpg" alt="photo"></a></div>
+          <!-- <div class="col-lg-3"><a href="img/gallery/smile/37.jpg" class="colorbox"><img src="img/gallery/smile/37.jpg" alt="photo"></a></div> -->
           <div class="col-lg-3"><a href="img/gallery/smile/40.jpg" class="colorbox"><img src="img/gallery/smile/40.jpg" alt="photo"></a></div>
 
 

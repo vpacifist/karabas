@@ -1479,6 +1479,24 @@ text-align: center;
   height: 150px;
   padding: 5px;
 }
+.album-other {
+  text-align: center;
+}
+.album-other .colorbox {
+  display: block;
+  overflow: hidden;
+  height: 150px;
+  padding: 5px;
+}
+.album-tails {
+  text-align: center;
+}
+.album-tails .colorbox {
+  display: block;
+  overflow: hidden;
+  height: 150px;
+  padding: 5px;
+}
 /*.album-smile img {
   max-height: 100%;
 }*/

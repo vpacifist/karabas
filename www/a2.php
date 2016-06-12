@@ -4,9 +4,26 @@
       <div class="container kid">
         <h1>A2 </h1>
         <p class="kid-name">Аль Пачино</p>
+        <p class="kid-info">HCM - N/N</p>
         <p class="kid-info">ns 22</p>
         <a href="#a-brood-pedigree" class="brood-colorbox">Ссылка на родословную</a>
         <div class="row">
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">4 недели</p>
+            <a href="img/kids/a2/new13.jpg" class="kid-colorbox"><img src="img/kids/a2/new13.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">4 недели</p>
+            <a href="img/kids/a2/new15.jpg" class="kid-colorbox"><img src="img/kids/a2/new15.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">3 недели</p>
+            <a href="img/kids/a2/new7.jpg" class="kid-colorbox"><img src="img/kids/a2/new7.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">3 недели</p>
+            <a href="img/kids/a2/new8.jpg" class="kid-colorbox"><img src="img/kids/a2/new8.jpg" alt="1 неделя"></a>
+          </div>
           <div class="col-lg-3">
             <p class="kid-photo-age text-center">1 неделя</p>
             <a href="img/kids/a2/02.jpg" class="kid-colorbox"><img src="img/kids/a2/02.jpg" alt="1 неделя"></a>

@@ -8,6 +8,30 @@
         <a href="#a-brood-pedigree" class="brood-colorbox">Ссылка на родословную</a>
         <div class="row">
           <div class="col-lg-3">
+            <p class="kid-photo-age text-center">4 недели</p>
+            <a href="img/kids/a3/new18.jpg" class="kid-colorbox"><img src="img/kids/a3/new18.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">4 недели</p>
+            <a href="img/kids/a3/new17.jpg" class="kid-colorbox"><img src="img/kids/a3/new17.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">4 недели</p>
+            <a href="img/kids/a3/new19.jpg" class="kid-colorbox"><img src="img/kids/a3/new19.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">3 недели</p>
+            <a href="img/kids/a3/new10.jpg" class="kid-colorbox"><img src="img/kids/a3/new10.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">3 недели</p>
+            <a href="img/kids/a3/new6.jpg" class="kid-colorbox"><img src="img/kids/a3/new6.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">3 недели</p>
+            <a href="img/kids/a3/new3.jpg" class="kid-colorbox"><img src="img/kids/a3/new3.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
             <p class="kid-photo-age text-center">1 неделя</p>
             <a href="img/kids/a3/01.jpg" class="kid-colorbox"><img src="img/kids/a3/01.jpg" alt="1 неделя"></a>
           </div>

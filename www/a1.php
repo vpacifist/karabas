@@ -8,6 +8,30 @@
         <a href="#a-brood-pedigree" class="brood-colorbox">Ссылка на родословную</a>
         <div class="row">
           <div class="col-lg-3">
+            <p class="kid-photo-age text-center">4 недели</p>
+            <a href="img/kids/a1/new16.jpg" class="kid-colorbox"><img src="img/kids/a1/new16.jpg" alt="1 неделя"></a>
+           </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">4 недели</p>
+            <a href="img/kids/a1/new15.jpg" class="kid-colorbox"><img src="img/kids/a1/new15.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">4 недели</p>
+            <a href="img/kids/a1/new18.jpg" class="kid-colorbox"><img src="img/kids/a1/new18.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">3 недели</p>
+            <a href="img/kids/a1/new11.jpg" class="kid-colorbox"><img src="img/kids/a1/new11.jpg" alt="1 неделя"></a>
+           </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">3 недели</p>
+            <a href="img/kids/a1/new14.jpg" class="kid-colorbox"><img src="img/kids/a1/new14.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">3 недели</p>
+            <a href="img/kids/a1/new17.jpg" class="kid-colorbox"><img src="img/kids/a1/new17.jpg" alt="1 неделя"></a>
+          </div>
+          <div class="col-lg-3">
             <p class="kid-photo-age text-center">1 неделя</p>
             <a href="img/kids/a1/01.jpg" class="kid-colorbox"><img src="img/kids/a1/01.jpg" alt="1 неделя"></a>
           </div>
@@ -26,6 +50,10 @@
           <div class="col-lg-3">
             <p class="kid-photo-age text-center">1 день</p>
             <a href="img/kids/a1/013.jpg" class="kid-colorbox"><img src="img/kids/a1/013.jpg" alt="1 день"></a>
+          </div>
+          <div class="col-lg-3">
+            <p class="kid-photo-age text-center">1 день</p>
+            <a href="img/kids/a1/new1.jpg" class="kid-colorbox"><img src="img/kids/a1/new1.jpg" alt="1 день"></a>
           </div>
         </div>
       </div>

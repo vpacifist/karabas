@@ -9,11 +9,11 @@
             <a href="tigra.php" class="cats-img-link"><img src="img/tigra.jpg" alt="Тигра"></a>
           </div>
           <div class="col-lg-4">
-            <a href="africa.php" class="cats-name"><br>HoneyDevil AFRICA</a>
+            <a href="africa.php" class="cats-name"><br>HCh (WCF) HoneyDevil AFRICA</a>
             <a href="africa.php" class="cats-img-link"><img src="img/africa.jpg" alt="Африка"></a>
           </div>
           <div class="col-lg-4">
-            <a href="jurga.php" class="cats-name"><br>RASCOON JURGA</a>
+            <a href="jurga.php" class="cats-name"><br>HCh (WCF) RASCOON JURGA</a>
             <a href="jurga.php" class="cats-img-link"><img src="img/jurga.jpg" alt="Юрга"></a>
           </div>
         </div>
