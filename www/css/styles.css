@@ -1190,6 +1190,9 @@ h1 {
 h2 {
   margin-top: 0;
 }
+.clear-left {
+  clear: left;
+}
 
 
 /* Header */
