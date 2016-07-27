@@ -3,6 +3,33 @@
     <main>
       <div class="container news">
         <h1 class="text-center">Новости</h1>
+          <div class="col-lg-12">
+            <h2 id="news-16.05.07">Малыши</h2>
+            <p>7 мая 2016 наша любимая Тигра первый раз родила малышей: 2 мальчика и девочку. Малыши крупные и оригинальные по окрасу. Мама и детки чувствуют себя хорошо! Растите здоровыми, большими и счастливыми кунами! </p>
+            <div class="news-images">
+              <div class="row">
+                <div class="col-xs-3">
+                  <a href="img/news/news-16.05.07_1.jpg" class="colorbox  news_link  group4"><img src="img/news/news-16.05.07_1.jpg" alt="Фото новости"></a>
+                </div>
+                <div class="col-xs-3">
+                  <a href="img/news/news-16.05.07_2.jpg" class="colorbox  news_link  group4"><img src="img/news/news-16.05.07_2.jpg" alt="Фото новости"></a>
+                </div>
+                <div class="col-xs-3">
+                  <a href="img/news/news-16.05.07_3.jpg" class="colorbox  news_link  group4"><img src="img/news/news-16.05.07_3.jpg" alt="Фото новости"></a>
+                </div>
+                <div class="col-xs-3">
+                  <a href="img/news/news-16.05.07_4.jpg" class="colorbox  news_link  group4"><img src="img/news/news-16.05.07_4.jpg" alt="Фото новости"></a>
+                </div>
+                <div class="col-xs-3  clear-left">
+                  <a href="img/news/news-16.05.07_5.jpg" class="colorbox  news_link  group4"><img src="img/news/news-16.05.07_5.jpg" alt="Фото новости"></a>
+                </div>
+                <div class="col-xs-3">
+                  <a href="img/news/news-16.05.07_6.jpg" class="colorbox  news_link  group4"><img src="img/news/news-16.05.07_6.jpg" alt="Фото новости"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="row">
           <div class="col-lg-12">
             <h2 id="news-16.03.07">Выставка "Весенний марафон"</h2>
