@@ -69,7 +69,7 @@
             <div class="news-images">
               <div class="row">
                 <div class="col-xs-3">
-                  <a href="img/news-16.03.07.jpg" class="colorbox group1"><img src="img/news-16.03.07.jpg" alt="Фото новости"></a>
+                  <a href="img/news/news-16.03.07.jpg" class="colorbox  news_link  group3"><img src="img/news/news-16.03.07.jpg" alt="Фото новости"></a>
                 </div>
               </div>
             </div>
@@ -82,7 +82,7 @@
             <div class="news-images">
               <div class="row">
                 <div class="col-xs-3">
-                  <a href="img/news-16.02.07.jpg" class="colorbox group2"><img src="img/news-16.02.07.jpg" alt="Фото новости"></a>
+                  <a href="img/news/news-16.02.07.jpg" class="colorbox  news_link  group2"><img src="img/news/news-16.02.07.jpg" alt="Фото новости"></a>
                 </div>
               </div>
             </div>
@@ -95,7 +95,7 @@
             <div class="news-images">
               <div class="row">
                 <div class="col-xs-3">
-                  <a href="img/news-16.01.16.jpg" class="colorbox group3"><img src="img/news-16.01.16.jpg" alt="Фото новости"></a>
+                  <a href="img/news/news-16.01.16.jpg" class="colorbox  news_link  group1"><img src="img/news/news-16.01.16.jpg" alt="Фото новости"></a>
                 </div>
               </div>
             </div>
