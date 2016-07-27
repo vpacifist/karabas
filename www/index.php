@@ -35,9 +35,9 @@
             <p>5 и 6 марта 2016 года Captain Coon’s Aristotel принял участие в международной выставке в СПб «Весенний марафон», получив 2Ex 1 и BIS Nom. <a href="news.php" class="news-more">Читать далее...</a></p>
             <p class="news-date">6-7 февраля 2016</p>
             <p>6 и 7 февраля наши питомцы Solar Wind Charming Lady (Тигра) и Captain Coon’s Aristotel (Тоша) ездили в путешествие в красивейший старинный город Великий Новгород и поучаствовали в выставке «Кошки Петербурга». <a href="news.php" class="news-more">Читать далее...</a></p>
-            <p class="news-date">16-17 января 2016</p>
+<!--             <p class="news-date">16-17 января 2016</p>
             <p>16-17 января 2016 наш золотой мальчик Captain Coon’s Aristotel участвовал в выставке «Зимняя сказка» в Санкт-Петербурге. <a href="news.php" class="news-more">Читать далее...</a></p>
-          </div>
+ -->          </div>
         </div>
       </div>
     </main>
