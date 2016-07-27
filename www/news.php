@@ -125,6 +125,16 @@
           innerWidth:"95%",
           innerHeight:"95%"
         });
+        $('a.group4').colorbox({
+          rel:"group4",
+          innerWidth:"95%",
+          innerHeight:"95%"
+        });
+        $('a.group5').colorbox({
+          rel:"group5",
+          innerWidth:"95%",
+          innerHeight:"95%"
+        });
 
       });
     </script>
