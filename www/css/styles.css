@@ -1309,6 +1309,10 @@ text-align: center;
 .news-more {
   font-weight: bold;
 }
+.news_link {
+  display: block;
+  margin-bottom: 10px;
+}
 
 /*
  * == Cats (Males and Females) ==
