@@ -29,6 +29,8 @@
           </div>
           <div class="col-lg-3">
             <h2>Новости</h2>
+ -->            <p class="news-date">7 мая 2016</p>
+            <p>7 мая 2016 наша любимая Тигра первый раз родила малышей: 2 мальчика и девочку. <a href="news.php" class="news-more">Читать далее...</a></p>
             <p class="news-date">5-7 марта 2016</p>
             <p>5 и 6 марта 2016 года Captain Coon’s Aristotel принял участие в международной выставке в СПб «Весенний марафон», получив 2Ex 1 и BIS Nom. <a href="news.php" class="news-more">Читать далее...</a></p>
             <p class="news-date">6-7 февраля 2016</p>
