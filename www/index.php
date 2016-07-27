@@ -29,6 +29,8 @@
           </div>
           <div class="col-lg-3">
             <h2>Новости</h2>
+<!--             <p class="news-date">7-9 мая 2016</p>
+            <p>Наши молодые звездочки  Rascoon Jurga (Юрга) и HoneyDevil Africa выиграли так много наград, титулов и призов, что пришлось увозить коробками :) <a href="news.php" class="news-more">Читать далее...</a></p>
  -->            <p class="news-date">7 мая 2016</p>
             <p>7 мая 2016 наша любимая Тигра первый раз родила малышей: 2 мальчика и девочку. <a href="news.php" class="news-more">Читать далее...</a></p>
             <p class="news-date">5-7 марта 2016</p>
